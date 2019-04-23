@@ -1,0 +1,646 @@
+,source,claim,verdict,qoute,date,scrape_date
+0,West Virginia Democratic Party,"The Affordable Care Act ""provided over 200,000 West Virginians with health care coverage.""",true,It adds up,2019-04-17,2019-04-23 16:46:59.185497
+0,Andrew Byrd,"""The states that have passed (campus carry laws) have seen enrollment drop significantly.""",false,There's no common pattern,2019-04-16,2019-04-23 16:46:59.187476
+0,Shelley Moore Capito,"""Beginning in the early 1990s, we built barriers in 4 sectors at our southern border. Since each was built, those sectors have seen massive drops in apprehensions of people crossing the border illegally,"" including 90 percent to 95 percent decreases in the Tucson, Yuma, San Diego and El Paso sectors. ​",barely-true,Overstates the case,2019-04-08,2019-04-23 16:46:59.189059
+0,Mike Romano,"In the state rankings for ACT test scores, West Virginia ""is 30th. Which states are listed in the bottom? 15 states with charter schools.""",barely-true,They clustered below AND above,2019-04-04,2019-04-23 16:46:59.190615
+0,Mitch Carmichael,"In West Virginia, ""our students enter in at fourth grade the first time they’re tested, 37th or 38th in the nation—which is not good, but it’s not horrible. By the time they’re in the 8th grade, they’re 46th or 47th, and then upon 11th grade testing they’re near last.""",mostly-true,The general pattern holds,2019-04-03,2019-04-23 16:46:59.192111
+0,Jeremiah Samples,"""We have had an increase of 67 percent (in) the number of children taken into state custody since 2014.""",mostly-true,One consequence of the opioid crisis,2019-04-03,2019-04-23 16:46:59.193875
+0,West Virginia Republican Party,"""We have more women in the workforce than ever before.""",half-true,"The percentage, not the number, matters",2019-03-27,2019-04-23 16:46:59.195603
+0,Brian Joseph,"""The catalytic converter used in automobiles was invented in West Virginia.""",barely-true,A key inventor was born there,2019-03-27,2019-04-23 16:46:59.197216
+0,Facebook posts,"""Right here (in West Virginia), they are building new houses … so that 321 Syrian Muslims can move down into this neighborhood in two months. … (A funeral home) is to be torn down in two months, and a mosque is going to built there.""",pants-fire,Almost nothing accurate in this video,2019-03-27,2019-04-23 16:46:59.198813
+0,Jim Justice,"""This is the largest cumulative surplus for the first six months of any fiscal year in state history.""",mostly-true,"Since 1999, at least",2019-03-06,2019-04-23 16:46:59.200343
+0,Carol Miller,"""Just two weeks ago, Customs and Border Protection seized enough fentanyl to kill every person in West Virginia 32 times over.""",mostly-true,The math checks out,2019-03-06,2019-04-23 16:46:59.202091
+0,E. Gordon Gee,"West Virginia has ""the nation’s lowest workforce participation rate, which hovers around 50 percent, when the national average is about 63 percent.""",true,It's been lowest for a long time,2019-02-27,2019-04-23 16:46:59.203635
+0,Shelley Moore Capito,"""Thanks to successful federal, state, and local efforts, preliminary statistics show opioid overdose deaths are down 8.5% in West Virginia.""",half-true,Data needs disentangling,2019-02-21,2019-04-23 16:46:59.205364
+0,Joe Manchin,"The partial government shutdown in early 2019 affected ""18,000 federal employees in West Virginia.""",mostly-true,Not all affected in same way,2019-02-20,2019-04-23 16:46:59.206967
+0,Patrick Morrisey,"Obamacare premiums ""have gone up 160 percent in West Virginia in 4 yrs.""",mostly-true,"UPDATED: Not that big, but fairly close",2019-02-07,2019-04-23 16:46:59.208526
+0,West Virginia Democratic Party,"""FACT: Unemployment rate has not decreased since @WVGovernor took office.""",barely-true,"It's decreased, by a small amount",2019-02-04,2019-04-23 16:46:59.210099
+0,Shelley Moore Capito,"""Our economy is growing at its fastest pace in nearly four years. Unemployment is at an all-time low.""",mostly-true,"Lowest in 50-odd years, anyway",2019-02-04,2019-04-23 16:46:59.211630
+0,Joe Manchin,"""President Trump has the strongest support percentage-wise in our state than any other state in the nation. He won West Virginia by almost 43 percentage points and he's been carrying close to 60 percent approval.""",mostly-true,A few states cluster at the top,2019-01-28,2019-04-23 16:46:59.213154
+0,Jim Justice,"""As of September 2018, there are 6,683 WV children in foster care — 1,415 of whom are legally eligible for adoption.""",mostly-true,Not far off,2019-01-10,2019-04-23 16:46:59.214711
+0,Jim Justice,"""WV's tourism industry grew at a rate 30% above the national rate in 2017. This increase reversed a four-year decline in which travel-generated spending fell more than $600 million.""",mostly-true,"Yes, though not all stats were as strong",2018-12-14,2019-04-23 16:46:59.216236
+0,Mike Romano,"""Adjusting for inflation, West Virginia’s median household income has not grown in a decade.""",true,"W.Va. has fallen, U.S. has risen",2018-12-12,2019-04-23 16:46:59.411243
+0,Jim Justice,"""Hunters contribute more than $500 million"" to West Virginia.",mostly-true,An old estimate,2018-12-10,2019-04-23 16:46:59.412952
+0,Mike Romano,"The poverty rate in West Virginia ""was 19.1 percent, the fourth-highest in the country.""",true,Unfortunate achievement,2018-12-10,2019-04-23 16:46:59.414497
+0,Mike Romano,"""In 2017, West Virginia’s $43,469 median household income was $16,867 below the national average, ranking 50th.""",true,An unflattering achievement,2018-12-07,2019-04-23 16:46:59.415995
+0,Paul Espinosa,"""From 1990 to 2015 under (Democratic) control, W. Va. teacher pay rank plummeted from 30th in the nation to 48th.""",barely-true,Decline wasn't as dramatic,2018-12-07,2019-04-23 16:46:59.417634
+0,Richard Ojeda,"At General Motors, CEO Mary Barra ""took home almost 22 MILLION DOLLARS last year alone (295x your company's average employee).""",true,The figures check out,2018-12-06,2019-04-23 16:46:59.419270
+0,David McKinley,"The United States ""spends more on potato chips than we do on ALL energy R&D.""",true,Overlooking the energy crunch?,2018-12-06,2019-04-23 16:46:59.420857
+0,Roman Prezioso,"""Fifty percent of our (West Virginia) budget was for lower education.""",mostly-true,That's in the ballpark,2018-12-06,2019-04-23 16:46:59.422398
+0,Joe Manchin,"The United States imports ""50 percent of at least 50 mineral commodities each year, including 100 percent of 21 of them.""",mostly-true,Just one wording tweak away from correct,2018-12-03,2019-04-23 16:46:59.423926
+0,David McKinley,"""Last year we had the eighth fastest-growing economy in the country in West Virginia.""",barely-true,Updated data says 19th,2018-11-29,2019-04-23 16:46:59.425546
+0,West Virginia Republican Party,"""Middle-class income rose to a record level in 2017 as the strong economy lifted the fortunes of more Americans.""",true,Better than ever,2018-11-15,2019-04-23 16:46:59.427531
+0,Richard Ojeda,"""We have lost more lives in the last two years"" due to opioids ""than all of the lives lost during the Vietnam War.""",true,A grim but accurate comparison,2018-11-15,2019-04-23 16:46:59.429076
+0,Donald Trump,"""Even in California now, they don’t want to be sanctuary cities anymore. They want out.""",barely-true,Majority of those polled are in support,2018-11-15,2019-04-23 16:46:59.430618
+0,Patrick Morrisey,"Says Joe Manchin ""refused to commit to Kavanaugh until AFTER the Senate had the votes.""",true,A late decider,2018-11-15,2019-04-23 16:46:59.432145
+0,West Virginia Republican Party,"""What did Joe Manchin say about civility? Today, he said he wanted to ‘beat the living crap out of’ his Republican opponent during their debate.""",mostly-true,Leaves out part of the remark,2018-11-05,2019-04-23 16:46:59.433673
+0,Patrick Morrisey,"Says Joe Manchin ""supported Obama and Clinton's campaigns to kill coal jobs.""",false,Opposed their two biggest initiatives,2018-11-05,2019-04-23 16:46:59.435205
+0,West Virginia Republican Party,"""West Virginia added the highest percentage of new construction jobs in 2017 in the United States, at 14.4%. This amounted to 4,300 additional jobs! In fact, #WV was the only state with double-digit growth!""",true,No. 1 of 50 states,2018-11-02,2019-04-23 16:46:59.436734
+0,Donald Trump,"""Household income among Hispanic Americans has just set a new record high.""",true,It's a new high,2018-11-01,2019-04-23 16:46:59.438379
+0,Kendra Fershee,"""Poverty in WV is more than 5% higher than the national average.""",mostly-true,"5 percentage points, not percent",2018-11-01,2019-04-23 16:46:59.439960
+0,E. Gordon Gee,"In public approval, ""the press is rated right now below that of Congress, and that is very low; it’s in the single digits.""",false,"Nope, Congress is lower",2018-10-29,2019-04-23 16:46:59.441769
+0,Jim Justice,"""Thousands of folks are opening West Virginia E-ZPass accounts.""",true,The numbers check out,2018-10-24,2019-04-23 16:46:59.603285
+0,Joe Manchin,"""Black lung cases are at a 25-year high.""",true,Rate has climbed since 1990,2018-10-23,2019-04-23 16:46:59.605149
+0,Donald Trump,"""The poverty rates for African Americans and Hispanic Americans -- it’s been incredible, they’ve all reached their lowest levels in the history of our country.""",true,Best since record-keeping began,2018-10-23,2019-04-23 16:46:59.606710
+0,Joe Manchin,"West Virginia has ""more veterans per capita"" than any state.",false,Not even in top five,2018-10-11,2019-04-23 16:46:59.608584
+0,David McKinley,"In West Virginia, ""personal income tax collections (were) up 14% from 2017.""",true,Increase is third highest this century,2018-10-11,2019-04-23 16:46:59.610195
+0,Joe Manchin,"Says Patrick Morrisey undertook ""efforts to put educators in jail.""",false,Unlawful does not mean criminal,2018-10-11,2019-04-23 16:46:59.611781
+0,Joe Manchin,"""I voted to fund President Trump’s wall.""",mostly-true,Sided with Trump on key vote,2018-10-05,2019-04-23 16:46:59.613359
+0,Patrick Morrisey,"Sen. Joe Manchin ""stands with Hillary Clinton and D.C. Dems on gun control, higher taxes, amnesty, and Planned Parenthood.""",half-true,"Some support, but missing details",2018-10-04,2019-04-23 16:46:59.614938
+0,Donald Trump,"""The United States is now the No. 1 energy producer in the world. That happened just recently.""",half-true,Not exactly new,2018-10-04,2019-04-23 16:46:59.616503
+0,National Republican Senatorial Committee,"Says Sen. Joe Manchin has a ""$700,000 D.C. luxury yacht.""",half-true,Price documentation varies,2018-09-28,2019-04-23 16:46:59.618123
+0,Patrick Morrisey,"""Joe Manchin has a ‘D' rating from the NRA.""",mostly-true,Correct for 2018; better scores earlier,2018-09-28,2019-04-23 16:46:59.619720
+0,E. Gordon Gee,"West Virginia University’s incoming freshman class has the ""highest-ever GPA""",mostly-true,A steady rise in recent years,2018-09-28,2019-04-23 16:46:59.621298
+0,Patrick Morrisey,"Says he ""beat (President Barack) Obama at the Supreme Court, saving coal jobs.""",mostly-true,A leader in key litigation,2018-09-20,2019-04-23 16:46:59.622890
+0,West Virginia Republican Party,"""In 2017, the number of new business registrations in West Virginia grew nearly 11 percent (8,318 new businesses registered for the year). This comes off the heels of a 12 percent increase in new business registrations during 2016.""",mostly-true,Doesn't factor in business closures ,2018-09-20,2019-04-23 16:46:59.624474
+0,Jim Justice,"""According to SCUBA divers, Summersville Lake is the clearest freshwater lake east of the Mississippi River.""",barely-true,No comprehensive study,2018-09-13,2019-04-23 16:46:59.626047
+0,Patrick Morrisey,"Says Joe Manchin ""strongly supported and voted for Hillary Clinton after she said, ‘We’re going to put a lot of coal miners and coal companies out of work.’""",mostly-true,Expressed his concern but stuck by her,2018-09-13,2019-04-23 16:46:59.627963
+0,West Virginia Republican Party,"""Thanks to President Trump and Republicans over the past year through July, U.S. manufacturing added 327,000 jobs, the most of any 12-month period since April 1995, when the figure added a healthy 345,000 positions.""",mostly-true,Manufacturing job growth has been strong,2018-09-06,2019-04-23 16:46:59.629636
+0,Beto O'Rourke,"""Disparities in infant mortality between white America and black America (are) greater today, in 2019,  than in the year 1850...""",mostly-true,Needs context,2019-04-23,2019-04-23 16:47:00.006540
+0,Mark Warner,"Other than University of Virginia’s 2019 basketball team, ""We’ve not had a Virginia team even in the Final Four in over a decade. I think George Mason was the last one…""",false,Remember the Rams,2019-04-16,2019-04-23 16:47:00.008323
+0,Terry McAuliffe,On a bill that would have eased third-trimester abortion resrictions,full-flop,Took two opposite positions,2019-04-09,2019-04-23 16:47:00.009884
+0,Kaye Kory,"""Women in Virginia have been incarcerated at an increasingly high rate. It’s around (a) 300 percent increase in the past four or five years.""",false,Bad timing,2019-04-02,2019-04-23 16:47:00.011583
+0,Terry McAuliffe,"During his governorship, Virginia made ""the largest investment ever in K-12 education.""",barely-true,Ignores inflation,2019-03-26,2019-04-23 16:47:00.013165
+0,Levar Stoney,On tax increases.,half-flip,"Largely consistent record, but...",2019-03-19,2019-04-23 16:47:00.014725
+0,Bobby Scott,"""Women earn on average 80-cents on the dollar compared to white men doing similar jobs.""",mostly-true,Not just bias at play,2019-03-13,2019-04-23 16:47:00.016293
+0,Chris Jones,"Virginia House ""Republicans have had more African-Americans on key committees than when the Democrats were in control.""",true,Pans out,2019-03-05,2019-04-23 16:47:00.018071
+0,Morgan Griffith,"""Our country has succeeded in reducing greenhouse emissions in previous years.""",half-true,Emissions went up last year,2019-02-26,2019-04-23 16:47:00.019685
+0,Donald Trump,"Says Gov. Ralph Northam ""stated that he would even allow a newborn baby to come out into the world... then talk to the mother and talk to the father and then execute the baby.""",false,Puts words in Northam's mouth,2019-02-20,2019-04-23 16:47:00.021275
+0,Bobby Scott,"""Today’s minimum wage worker making $7.25 an hour has less buying power than a minimum wage worker in the 1960s.""",true,Worth 28 percent less than 60's average,2019-02-13,2019-04-23 16:47:00.022858
+0,Kathy Tran,"""Right now, women are able to access an abortion in the later stages of their pregnancy under certain conditions with approval of their medical doctors. I’ve done nothing to change that.""",false,She did seek change,2019-02-06,2019-04-23 16:47:00.024766
+0,Eileen Filler-Corn,"""There is no tax increase in the governor’s budget plan.""",barely-true,Looks and works like a tax hike,2019-01-29,2019-04-23 16:47:00.026402
+0,Ralph Northam,"On extreme-risk guns laws, ""This idea has passed Republican legislatures in other states and has been signed by Republican governors.""",true,On the mark,2019-01-23,2019-04-23 16:47:00.027994
+0,Tim Kaine,"""We took a deal to the president just last February, less than a year ago -- $25 billion over 10 years in border security done the right way - and the president blew up the deal.""",mostly-true,"Trump called proposal a ""total catastrophe""",2019-01-15,2019-04-23 16:47:00.029573
+0,Jerry Falwell Jr.,"""This midterm (election), the president did better than the average president does in his first midterms.""",false,GOP lost 38 seats in Congress,2019-01-08,2019-04-23 16:47:00.031154
+0,Mark Herring,On resigning as attorney general if he decides to run for governor.,no-flip,Criticism is premature,2018-12-18,2019-04-23 16:47:00.032736
+0,Terry McAuliffe,"During his governorship: ""Every single city and county in Virginia, their unemployment dropped, and in most of the rural communities, it dropped more than 50 percent.""",mostly-true,Slightly off on rural communities,2018-12-04,2019-04-23 16:47:00.034400
+0,Clean Virginia,"""Virginians pay the 11th-highest power bills in the nation.""",half-true,"High usage, not rates, drive the big bills",2018-11-27,2019-04-23 16:47:00.036113
+0,Rob Wittman,"Says ""85 percent (of immigrants) don’t show up for a scheduled court hearing or call to schedule a court hearing.""",false,He's since modified his claim,2018-11-13,2019-04-23 16:47:00.037663
+0,Dave Brat,"On Abigail Spanberger: ""She got $2.2 million from ActBlue...That is the George Soros resistance group.""",pants-fire,"""Six degrees of separation"" theory ",2018-11-02,2019-04-23 16:47:00.179352
+0,Dave Brat,"Abigail Spanberger ""wants a tax increase of $32 trillion - that’s with a `T,’ to pay for her socialist health care plan.""",false,She opposes Bernie Sanders' plan,2018-10-23,2019-04-23 16:47:00.181096
+0,Abigail Spanberger,"Says Dave Brat ""voted against protecting pre-existing conditions.""",half-true,There's more to this story,2018-10-11,2019-04-23 16:47:00.182668
+0,Corey Stewart,"Tim Kaine: ""opposes everything President Trump does.""",mostly-true,Not far off,2018-09-26,2019-04-23 16:47:00.184348
+0,Tim Kaine,"""The national economy was strong in its largest expansion of private sector jobs before President Trump came into office.""",true,No doubt,2018-09-25,2019-04-23 16:47:00.186062
+0,Corey Stewart,"""It is only under President Trump that we have become the largest producer of oil and gas resources.""",false,Started under Obama,2018-09-11,2019-04-23 16:47:00.187650
+0,Larry Pratt,"Says President Barack Obama ""has not condemned"" shootings targeting police.",pants-fire,Obama has done so repeatedly,2016-12-27,2019-04-23 16:47:00.189241
+0,Bryce Reeves,"""If you’re a single mom, and you’ve two kids in the city of Richmond, you can almost make $50,000 a year on the public dole.""",mostly-true,"In some cases, it's almost $40,000",2016-12-19,2019-04-23 16:47:00.191322
+0,Newt Gingrich,"""We adopted the modern Social Security system at a time when the average person died before they were old enough to get Social Security.""",true,Life expectancy was 62 back then,2016-12-12,2019-04-23 16:47:00.192933
+0,Terry McAuliffe,"""We would be just like North Carolina with HB2-like (transgender bathroom) legislation. It actually passed our chamber and I vetoed it.""",barely-true,Misleading claim,2016-12-05,2019-04-23 16:47:00.194530
+0,Donald Trump,"There was ""serious voter fraud"" in Virginia.",pants-fire,No evidence,2016-11-29,2019-04-23 16:47:00.196119
+0,Don Beyer,"""We have trade agreements with 20 countries, and we have trade surpluses with each one of those 20.""",false,Not even close,2016-11-28,2019-04-23 16:47:00.197741
+0,Corey Stewart,"Ed Gillespie ""would not mention (Donald Trump’s) name unless he was condemning him.""",false,Gillespie said he'd vote for Trump,2016-11-21,2019-04-23 16:47:00.199327
+0,Pat Robertson,"Margaret Sanger ""wanted a black Christian leader to be like a Judas goat and lead the blacks to genocide. Remember that? And they picked Martin Luther King as their spokesman.""",pants-fire,Inventing history,2016-11-14,2019-04-23 16:47:00.200898
+0,Kai Degner,"""The Declaration of Independence was written on paper made out of hemp.""",false,Oft-told myth,2016-11-07,2019-04-23 16:47:00.202494
+0,Michelle Mosby,"Joe Morrissey ""has been a delegate in the General Assembly for eight years with no laws passed to help our black community with education or workforce.""",half-true,Somewhat overstated ,2016-11-01,2019-04-23 16:47:00.204040
+0,Levar Stoney,"""Jack Berry voted for a plan to cut $23.8 million from our schools.""",barely-true,Many missing details,2016-10-31,2019-04-23 16:47:00.205655
+0,Levar Stoney,"As executive director of the Democratic Party of Virginia there were ""300 people on my payroll in 2008.""",half-true,Then it shrank to eight,2016-10-25,2019-04-23 16:47:00.207253
+0,Joe Morrissey,"The city of Richmond ""built the second richest team in the NFL a $14 million stadium.""",half-true,Loose on details,2016-10-24,2019-04-23 16:47:00.208842
+0,National Rifle Association,"Hillary Clinton said gun confiscation ""would be worth considering.""",barely-true,Stretch of words,2016-10-17,2019-04-23 16:47:00.210460
+0,Mark Warner,"Donald Trump has said ""nuclear proliferation is OK.""",half-true,An overstatement ,2016-10-11,2019-04-23 16:47:00.429149
+0,Tim Kaine,"Donald Trump says ""that NATO is obsolete and that we need to get rid of NATO...""",barely-true,Trump wants NATO to change,2016-10-10,2019-04-23 16:47:00.430940
+0,Tim Kaine,"""Richard Nixon released tax returns when he was under audit.""",true,Audit left Nixon with hefty tax bill,2016-10-05,2019-04-23 16:47:00.432525
+0,Mike Pence,"Says Tim Kaine ""actually tried to raise taxes by about $4 billion.""",mostly-true,A bit high,2016-10-04,2019-04-23 16:47:00.434110
+0,Virginia First Foundation,"""The Virginia population increased by just 8 percent from 2005 to 2015, but the per capita spending in the budget increased by a whopping 38 percent.""",half-true,Spending controlled by state legislators was less ,2016-10-03,2019-04-23 16:47:00.435686
+0,Chain email,"On Tim Kaine: ""In exchange for campaign contributions, he appointed a radical jihadi to the Virginia Immigration Commission.""",false,Return to sender,2016-10-03,2019-04-23 16:47:00.437259
+0,Jack Berry,"In Richmond, Va., there’s ""more moving vans coming in than going out.""",mostly-true,According to most statistics,2016-09-26,2019-04-23 16:47:00.438839
+0,Republican National Committee,"""Tim Kaine hiked tuition as governor, but now claims to champion affordability.""",half-true,Colleges raised them; Kaine went along,2016-09-19,2019-04-23 16:47:00.440521
+0,Tim Kaine,"""When Moammar Gadhafi was set to visit the United Nations, and no one would let him stay in New York, Trump allowed Gadhafi to set up an elaborate tent at his Westchester County (New York) estate.""",true, Gadhafi a no-show,2016-09-15,2019-04-23 16:47:00.442173
+0,Donald Trump,"Barack Obama has ""doubled our national debt. Doubled it. It's going to be close to $20 trillion when he leaves.""",half-true,Lots of blame to share,2016-09-12,2019-04-23 16:47:00.443711
+0,Gary Johnson,"""Undocumented workers crossing the border right now is at a 12-year low.""",mostly-true,Border apprehensions down over 12 years,2016-09-06,2019-04-23 16:47:00.445250
+0,Tim Kaine,On drilling off the Atlantic coast,full-flop,Now backs Clinton's position to ban drilling,2016-08-29,2019-04-23 16:47:00.446789
+0,Donald Trump,"As governor, Tim Kaine ""oversaw a huge increase in illegal immigration, a tremendous increase.""",false,Illegal immigration flat while Kaine was governor,2016-08-29,2019-04-23 16:47:00.448344
+0,Tim Kaine,"""Even Richard Nixon released his tax returns to the public when he was running for president ...""",barely-true,"Nixon released tax returns while president, not on campaign trail",2016-08-22,2019-04-23 16:47:00.450056
+0,Scott Rigell,"""At $587 apiece, USA would need to bring home about 33.1 BILLION gold medals to pay off our national debt.""",mostly-true,Calling Michael Phelps,2016-08-19,2019-04-23 16:47:00.451823
+0,Mike Pence,"The Obama administration has been ""raising taxes.""",half-true,"Obama raised some levies, extended cuts on other taxes",2016-08-16,2019-04-23 16:47:00.453408
+0,Tim Kaine,"Says his father-in-law, former Gov. Linwood Holton, ""integrated Virginia public schools.""",half-true,Holton played big symbolic role,2016-08-15,2019-04-23 16:47:00.454991
+0,Tim Kaine,"Donald Trump says ""all Mexicans are rapists.""",false,Trump never said that,2016-08-08,2019-04-23 16:47:00.456564
+0,Dave Brat,"""A few weeks ago, (the) education committee in Congress is deciding what’s going to be in your local salad bar.""",false,No meat,2016-08-02,2019-04-23 16:47:00.458139
+0,Tim Kaine,"""We fixed a loophole in the (gun) background record check system so that we could make our commonwealth safer.""",true,Moved quickly after Virginia Tech tragedy,2016-07-29,2019-04-23 16:47:00.459875
+0,Donald Trump,"In first week as governor, Tim Kaine ""proposed a nearly $4 billion tax increase, $4 billion, including a tax increase on people earning as little as $17,000 a year.""",mostly-true,That's $4 billion over four years,2016-07-28,2019-04-23 16:47:00.616845
+0,Corey Stewart,"Says Hillary Clinton and Ralph Northam ""label police as racists.""",barely-true,Exaggerated for Clinton; baseless for Northam,2016-07-26,2019-04-23 16:47:00.618820
+0,Donald Trump,"On gift taking, ""Bob McDonnell took a fraction of what (Tim) Kaine took.""",pants-fire,You mean the other way around?,2016-07-24,2019-04-23 16:47:00.620434
+0,Hillary Clinton,"""I am the only candidate who ran in either primary who said, ‘I will not raise taxes on the middle class.’""",pants-fire,Not counting 15 Republicans,2016-07-23,2019-04-23 16:47:00.622018
+0,Tim Kaine,"Says Donald Trump is ""against minimum wage.""",barely-true,Trump says states should set wage ,2016-07-19,2019-04-23 16:47:00.623606
+0,Donald Trump,"""A shocking 20 veterans are committing suicide each and every day, especially our older veterans.""",true,Cites new VA data,2016-07-14,2019-04-23 16:47:00.625179
+0,Mark Warner,"Says Donald Trump has ""bankrupt four separate businesses.""",mostly-true,A conservative number,2016-07-11,2019-04-23 16:47:00.626767
+0,Mark Warner,"""The average time someone used to hold a share of stock back in the ’60s was eight years. Now, the average time is four months.""",mostly-true,Demand for fast profits,2016-07-06,2019-04-23 16:47:00.628353
+0,Pat Robertson,"President Barack Obama attended  ""an Islamic madrassa.""",barely-true,Plays with definitions of 'madrassa' ,2016-07-05,2019-04-23 16:47:00.629934
+0,Thomas Perez,"""If you are a member of  union, your median weekly income is roughly $200 more than if you are a nonunion member, and that doesn’t include benefits.""",true,But not with all professions,2016-06-29,2019-04-23 16:47:00.631514
+0,Bryce Reeves,"Gov. Terry McAuliffe ""has made several statements that he would love to be in a Cabinet secretary position with the Clinton administration.""",false,Mixing Hillary and Bill,2016-06-27,2019-04-23 16:47:00.633095
+0,Thomas Perez,"""Go look at a Trump product. They’re all made in China.""",barely-true,An overstatement,2016-06-27,2019-04-23 16:47:00.634682
+0,Donald Trump,Says the unemployment rate for African-American youths is 59 percent.,barely-true,Statistical sleight of hand,2016-06-20,2019-04-23 16:47:00.636220
+0,Rob Wittman,"""On average, each U.S. military working dog saves the lives of between 150 and 200 servicemen and women over the span of his career.""",false,"All bark, no bite",2016-06-14,2019-04-23 16:47:00.637829
+0,Dave Brat,"""The labor force participation rate -- the share of the potential workforce that is actually working or looking for work-- currently stands below 63%, the lowest level since the 1970s.""",true,Many reasons for slide,2016-06-13,2019-04-23 16:47:00.639455
+0,Levar Stoney,"Virginia’s banning of felons from voting is a ""Jim Crow-era law.""",false,Predates Jim Crow by five decades,2016-06-06,2019-04-23 16:47:00.641047
+0,National Federation of Independent Business-Virginia,"""The vast majority of minimum wage workers get a raise within a year.""",half-true,This majority isn't 'vast' ,2016-06-02,2019-04-23 16:47:00.642726
+0,Nikki Haley,"""More people today are leaving Virginia than moving in.""",mostly-true,Doesn't count newly settled foreigners ,2016-05-31,2019-04-23 16:47:00.644313
+0,Randy Forbes,"Says Virginia Republican ""Scott Taylor has been convicted in at least four different courts across the country, at times failing to even appear, and having a warrant issued for his arrest.""",half-true,A driving issue,2016-05-23,2019-04-23 16:47:00.645891
+0,NARAL Pro-Choice Virginia,"""One in three American women will have had an abortion by the time she reaches the age of 45.""",half-true,2008 estimate may be past prime ,2016-05-23,2019-04-23 16:47:00.647436
+0,Mamie Locke,"""The United States has a low voter turnout rate.""",true,"Low registration rate, too",2016-05-16,2019-04-23 16:47:00.821035
+0,Ken Cuccinelli,"Half of illegal immigrants ""come on legal visas and then overstay.""",mostly-true,Estimates vary,2016-05-16,2019-04-23 16:47:00.822834
+0,Ed Gillespie,"""For the first time in over 40 years, Republicans don’t hold a single statewide office"" in Virginia.",true,Goin' back to Woodstock,2016-05-12,2019-04-23 16:47:00.824437
+0,Terry McAuliffe,"Before April 22, ""we have restored the rights of more than 18,000 individuals, which is more than the past seven governors combined in their four-year terms.""",true,He's right,2016-05-09,2019-04-23 16:47:00.826035
+0,Randy Forbes,"China is ""going to have twice the number of submarines we have in just over a decade.""",half-true,Not water tight,2016-05-02,2019-04-23 16:47:00.827740
+0,Kirk Cox,"""In two years, Gov. McAuliffe has vetoed more bills that the previous three governors issued in each of their four-year terms.""",true,Governor says they were bad bills,2016-05-02,2019-04-23 16:47:00.829333
+0,Bob Goodlatte,"""Before taking executive action on immigration, President Obama stated 22 times that he does not have the authority to change immigration laws on his own.""",mostly-true,"Often said, but shy of 22 times ",2016-04-25,2019-04-23 16:47:00.830937
+0,Jack Berry,"Richmond teachers have not gotten a raise ""for almost 10 years.""",barely-true,Five raises in 10 years,2016-04-18,2019-04-23 16:47:00.832523
+0,Don Beyer,"""But for immigrants, we would have a contracting population...""",barely-true,"Not now, maybe in 30 years",2016-04-18,2019-04-23 16:47:00.834099
+0,Mira Signer,"States with ""the highest gun ownership rates also have the highest suicide rates.""",true,"Wyoming, Alaska and Montana",2016-04-11,2019-04-23 16:47:00.835689
+0,John Whitbeck,"Supreme Court nominee Merrick Garland ""voted to uphold"" D.C.’s ban on handguns.",false,Garland didn't hear the case,2016-04-04,2019-04-23 16:47:00.837274
+0,Don Beyer,"""Over 97 percent of the scientific community … believe that humans are contributing to climate change.""",mostly-true,"Very, very warm",2016-04-04,2019-04-23 16:47:00.838845
+0,Mark Herring,"""Since 1900, six (U.S. Supreme Court) justices have been confirmed during election years, including Justice Anthony Kennedy, who was confirmed in the final year of the Reagan Administration.""",true,Right number,2016-03-29,2019-04-23 16:47:00.840407
+0,Terry McAuliffe,"""Virginia now is the number one exporter of (agricultural) products to Cuba. We have now jumped to number one.""",true,Millions of dollars in soybeans,2016-03-24,2019-04-23 16:47:00.841956
+0,Donald Trump,"The Trump Winery near Charlottesville, Va. is the ""largest winery on the East Coast.""",false,Hard to squeeze truth from this claim,2016-03-21,2019-04-23 16:47:00.843499
+0,Mark Herring,"""Every (U.S. Supreme Court) nominee since 1875 has received a nomination hearing.""",barely-true,Not an open and shut case,2016-03-20,2019-04-23 16:47:00.845079
+0,Donald Trump,"The U.S. ""doesn’t make television sets anymore.""",true,No 'Made in USA' sets,2016-03-14,2019-04-23 16:47:00.846663
+0,Bernie Sanders,"""The Walton family of Walmart ... This one family owns more wealth than the bottom 40 percent of the American people.""",true,The Waltons are loaded,2016-03-14,2019-04-23 16:47:00.848185
+0,Bill Clinton,"""Every year there is a slightly smaller percentage of American households owning guns.""",half-true,Not every year,2016-03-07,2019-04-23 16:47:00.849700
+0,Bernie Sanders,"""We work longer hours than any people in the industrialized world, including the Japanese.""",barely-true,"Not No. 1, but up there",2016-02-29,2019-04-23 16:47:00.851401
+0,Corey Lewandowski,"""Mr. Trump is self-financing his campaign, so we don’t have any donors.""",false,Trump has thousands of donors,2016-02-22,2019-04-23 16:47:01.023394
+0,Bob Goodlatte,"""It’s highly unusual to have a Supreme Court confirmation in a presidential election year. The last one was 1940.""",half-true,Dismisses 1988,2016-02-22,2019-04-23 16:47:01.025183
+0,Terry McAuliffe,"""Under Virginia law, if you are a non-federally licensed (gun) dealer, you cannot get a background check even if you want one.""",barely-true,"You can, but it's not easy",2016-02-15,2019-04-23 16:47:01.026915
+0,John O'Bannon,"Says ""some Planned Parenthood chapters have been selling the body parts of aborted fetuses for profit.""",false,No evidence of profit,2016-02-08,2019-04-23 16:47:01.028537
+0,Jill Vogel,"In Virginia, ""people are going and getting marriage licenses who are 12 and 13, and 14 and 15 years old.""",mostly-true,No 12-year-olds,2016-02-08,2019-04-23 16:47:01.030137
+0,Ed Gillespie,"""More businesses are closing than opening in Virginia today.""",false,Old data,2016-02-01,2019-04-23 16:47:01.031733
+0,Thomas Garrett Jr.,"""A (state) trooper with 10 years on the force is getting $500 a year more than a trooper with 10 minutes on the force.""",false,"Off by about $6,055",2016-02-01,2019-04-23 16:47:01.033322
+0,Virginia Center for Public Safety,"""Since John F. Kennedy was assassinated in 1963, more Americans have died by gunfire within our own country than American servicemen and women who were killed in all our wars.""",true,On target,2016-01-26,2019-04-23 16:47:01.034907
+0,Philip Van Cleave,"Martin Luther King Jr. ""was a Republican.""",false,King eschewed party labels,2016-01-25,2019-04-23 16:47:01.036495
+0,Tarina Keene,"More than 100,000 women in Texas ""have attempted to self-induce abortion in the past year alone.""",false,Misstates research,2016-01-19,2019-04-23 16:47:01.038081
+0,Occupy Democrats,"Says Virginia Del. Mark Cole ""wants schools to check children’s genitals before using bathroom.""",false,Doesn't wash,2016-01-18,2019-04-23 16:47:01.039669
+0,Steven Landes,"Medicaid expansion ""could cost the Commonwealth of Virginia over $1 billion a year...""",false,Partisan math,2016-01-11,2019-04-23 16:47:01.041252
+0,Terry McAuliffe,"""We are taking Virginia’s investment in public education to the highest level in the commonwealth’s history.""",barely-true,Not if you factor inflation,2016-01-11,2019-04-23 16:47:01.042846
+0,Ted Cruz,"""Existing law right now requires 700 miles of double-layered border fencing"" on the Mexico border.",false,"""Existing law"" was changed in 2008",2015-12-29,2019-04-23 16:47:01.044435
+0,Ted Cruz,"Forty percent of illegal immigrants are ""people coming legally on visas and overstaying their visas.""",mostly-true,A broad estimate,2015-12-28,2019-04-23 16:47:01.046016
+0,Rob Wittman,"""Only nine"" coalition nations with the U.S. ""are truly actively involved"" in fighting the Islamic State.",mostly-true,The exact number varies,2015-12-22,2019-04-23 16:47:01.047767
+0,Terry McAuliffe,"Says he faced ""a record budget deficit"" in Virginia in 2014.",false,"""Slip of the tongue"" ",2015-12-21,2019-04-23 16:47:01.049459
+0,Donald Trump,"In 2000, ""I wrote about Osama bin Laden, ‘We’ve got to take him out.’""",barely-true,Not strictly by the book,2015-12-11,2019-04-23 16:47:01.051148
+0,Terry McAuliffe,"""Since 2008, we have cut 5,000 positions"" from Virginia public schools.",true,Remains of recession,2015-12-08,2019-04-23 16:47:01.052774
+0,Bob Goodlatte,"""There is a federal criminal law that says it's a crime to transport dentures across state lines.""",mostly-true,Something to chew on,2015-12-07,2019-04-23 16:47:01.054382
+0,Ted Cruz,"Says President Barack Obama ""will not utter the words ‘radical Islamic terrorism’ and as matter of policy, nobody in the administration will say the words ‘radical Islamic terrorism.’""",true,Obama avoids broadbrushing Muslims,2015-11-30,2019-04-23 16:47:01.211147
+0,Ben Carson,"Says Thomas Jefferson helped ""craft"" the Constitution.",false,An unhistorical claim,2015-11-27,2019-04-23 16:47:01.212953
+0,Bernie Sanders,"""It costs a hell of a lot more money to put somebody in jail than send them to the University of Virginia.""",half-true,Depends on length of sentence,2015-11-23,2019-04-23 16:47:01.214634
+0,Terry McAuliffe,"""When I became governor, I inherited a large deficit. You know what? We just turned that into the largest surplus in Virginia history.""",barely-true,An embellished story,2015-11-16,2019-04-23 16:47:01.216254
+0,Donald Trump,"On the VA: ""Over 300,000 veterans have died waiting for care.""",barely-true,Messy interpretation of a messy situation,2015-11-09,2019-04-23 16:47:01.218061
+0,Bernie Sanders,"The Koch Brothers are ""spending more money than either the Democratic or Republican parties"" in the 2016 elections.",false, Doesn't add up ,2015-11-06,2019-04-23 16:47:01.219684
+0,Terry McAuliffe,"""It has been estimated that nearly 40 percent of all guns sold in America are sold by private, unlicensed sellers either online or through gun shows.""",barely-true,Misinterprets 21-year-old study ,2015-11-02,2019-04-23 16:47:01.221293
+0,Donald Trump,"""Sixty-one percent of our bridges are in trouble.""",false,Not even close,2015-10-26,2019-04-23 16:47:01.222898
+0,"Thomas Norment, Jr.","Says ""only about 2 percent"" of gun sales in Virginia are not subject to background checks.",false,No such data,2015-10-26,2019-04-23 16:47:01.224498
+0,Donald Trump,"Says Bernie Sanders is going to ""tax you people at 90 percent.""",pants-fire,"Sanders mostly targets the richest, not 'you people'",2015-10-20,2019-04-23 16:47:01.226051
+0,Donald Trump,"""We have the highest tax rate anywhere in the world.""",false,Said during reference to middle class,2015-10-20,2019-04-23 16:47:01.227851
+0,Mike Huckabee,"The Washington D.C.-area ""never has a recession.""",false,"Bad times come, but don't stay long",2015-10-19,2019-04-23 16:47:01.229439
+0,Glen Sturtevant,"Dan Gecker voted to ""double vehicle registration fees, costing (Chesterfield) county residents over $6 million annually.""",false,Just the opposite,2015-10-12,2019-04-23 16:47:01.231035
+0,Richard Saslaw,"Virginia’s current unemployment rate is ""the lowest in Virginia history.""",false,Not even close,2015-10-12,2019-04-23 16:47:01.232628
+0,Dan Gecker,"Glen Sturtevant is ""against smaller class sizes.""",false,Trumped up charge,2015-10-05,2019-04-23 16:47:01.234228
+0,Gerry Connolly,"""It's estimated we leave somewhere north of $350 billion a year - that's billion - a year on the table uncollected because IRS doesn't have the resources.""",half-true,"Right number, wrong reason",2015-10-05,2019-04-23 16:47:01.235839
+0,Mike Huckabee,"""Six of the 10 richest counties in the United States surround Washington, D.C.""",true,Measured by median household income,2015-09-29,2019-04-23 16:47:01.237436
+0,Jim Gilmore,"On the main GOP presidential debate: ""Not one candidate on the debate stage has military experience … """,true,Direct hit,2015-09-28,2019-04-23 16:47:01.239033
+0,Mary Mannix,"""Just about half of rural hospitals operate in the red in Virginia. They operate at a loss.""",true,Proper diagnosis,2015-09-22,2019-04-23 16:47:01.240625
+0,Bernie Sanders,"""The top 1/10th of 1 percent today in America owns almost as much wealth as the bottom 90 percent.""",mostly-true,Might be on high side ,2015-09-21,2019-04-23 16:47:01.242224
+0,Barry DuVal,"""We're the only major oil-producing nation in the world with a self-imposed ban on exporting our crude oil to other nations.""",mostly-true,Some U.S. crude oil goes to Canada,2015-09-17,2019-04-23 16:47:01.438468
+0,Victoria Cobb,"""Inspections of abortion centers around Virginia have found multiple violations of parental consent laws … but Gov. Terry McAuliffe and his administration have done nothing.""",barely-true,Regulations enforced,2015-09-14,2019-04-23 16:47:01.440337
+0,Donald Trump,"Under the Iran deal: ""If Israel attacks Iran … we’re supposed to be on Iran’s side.""",false,That's not the case,2015-09-04,2019-04-23 16:47:01.442166
+0,Dan Gecker,"""Of the 25 wealthiest nations, we're the only one that doesn't provide basic health coverage.""",true,He was referring to universal health care,2015-09-01,2019-04-23 16:47:01.443797
+0,Dave Brat,"""I was one of the few, very few, who voted `no’ on the Iran deal.""",false,The deal hasn't come up for a vote yet,2015-08-31,2019-04-23 16:47:01.445404
+0,Glen Sturtevant,"""Last year, we had zero percent growth in GDP in Virginia ...The only states that did worse than us were Alaska and Mississippi.""",true,Zeroed in,2015-08-25,2019-04-23 16:47:01.447024
+0,Jim Webb,"""We did not even have a federal income tax in this country until 1913.""",half-true,Give Lincoln his due,2015-08-24,2019-04-23 16:47:01.448620
+0,Israel O'Quinn,"On unemployment rates: ""We have counties in Southwest Virginia that are well into double digits and some that are pushing 20 percent.""",false,Overstates coal region's woes,2015-08-17,2019-04-23 16:47:01.450296
+0,Dick Black,"Says Jill McCabe ""supports late term abortions. Larger baby parts are more profitable.""",pants-fire,No proof,2015-08-10,2019-04-23 16:47:01.451906
+0,Jim Webb,"""The United States has the highest incarceration rate in the world.""",mostly-true,Very close to the top ,2015-08-10,2019-04-23 16:47:01.453519
+0,Mark Obenshain,"Since parole abolition, Virginia's ""crime rate has fallen to third lowest in the country, our recidivism rate is down 20 percent and that’s the second lowest in the country.""",mostly-true,Some context missing,2015-08-03,2019-04-23 16:47:01.455211
+0,Gerry Connolly,"""In 1960, we spent more than 3 percent of our GDP on infrastructure projects like the Interstate Highway. Today we spend less than 1 percent of our GDP on these vital investments.""",half-true,Drop is not quite that steep,2015-08-03,2019-04-23 16:47:01.456925
+0,Terry McAuliffe,"""All (Maryland) crabs are born in Virginia.""",mostly-true,Claim has legs,2015-07-27,2019-04-23 16:47:01.458510
+0,Bob Goodlatte,"""The actual deportations from the interior of the country are way down"" under President Obama.",true,Focus shifts to border,2015-07-20,2019-04-23 16:47:01.460240
+0,E.W. Jackson,"Says President Obama ""is reducing our naval fleet to 1917 levels...""",barely-true,Anchors astray,2015-07-13,2019-04-23 16:47:01.461843
+0,Bobby Scott,"""The United States ranks second worst in income inequality across developed countries,"" after taxes and transfers.",mostly-true,Not quite that high,2015-07-13,2019-04-23 16:47:01.463475
+0,Randy Forbes,"""The average age a child is trafficked into the commercial sex trade industry is between 11 and 14 years old.""",half-true,Mixed evidence,2015-07-06,2019-04-23 16:47:01.465075
+0,Bobby Scott,"""Income disparities in the United States are the worst since the 1920s.""",mostly-true,Can't dismiss the 1930s,2015-06-30,2019-04-23 16:47:01.466682
+0,Don Beyer,"""More than half of women under 30 who give birth do so outside of marriage...""",true,No doubt,2015-06-22,2019-04-23 16:47:01.468281
+0,Dave Brat,"""In just 17 years, spending for Social Security, federal health care and interest on the debt will exceed ALL tax revenue!""",mostly-true,A rosier scenario exists,2015-06-16,2019-04-23 16:47:01.469917
+0,Mark Warner,"Millennials ""will be 75 percent of the workforce in the next 10 years.""",barely-true,They're not growing up that fast,2015-06-15,2019-04-23 16:47:01.636109
+0,The Commonwealth Institute,"Says ""roughly two-thirds of (state) corporations didn’t pay any income tax in Virginia.""",mostly-true,Some of the corporations are dormant,2015-05-27,2019-04-23 16:47:01.637909
+0,The Family Foundation,"""The United States is one of only seven nations that allows elective abortions after 20 weeks post-fertilization.""",true,Lots of evidence,2015-05-26,2019-04-23 16:47:01.639521
+0,Alex McMurtrie Jr.,"State legislators ""quietly shifted $2 billion from education to road building"" in 2013.",false,Thoroughly wrong,2015-05-18,2019-04-23 16:47:01.641120
+0,Rob Wittman,"The 2005 round of military base closings ""has not yet resulted in savings.""",half-true,Depends how you define savings,2015-05-15,2019-04-23 16:47:01.642727
+0,Mark Warner,"An audit shows ""there are 6.5 million people who have active Social Security numbers who are 112 years of age or older,""",true,Living dead,2015-05-11,2019-04-23 16:47:01.644321
+0,Robert Hurt,"Says the estate tax, ""in many cases,"" forces family farmers and small businesses owners to sell their holdings.",false,Rural legend,2015-05-03,2019-04-23 16:47:01.645953
+0,Tim Kaine,"""It’s estimated that 40 percent of all the guns that are sold in the United States occur with no background records check.""",barely-true,Data more than 20 years old ,2015-04-28,2019-04-23 16:47:01.647515
+0,Joe Morrissey,"""Rosalyn Dance voted against President Obama’s Medicaid expansion.""",barely-true,Campaign distortion,2015-04-23,2019-04-23 16:47:01.649089
+0,Mark Herring,"""By age 65, the average woman will have lost $431,000 throughout her working career was a result of the pay gap.""",mostly-true,Many reasons for gap,2015-04-20,2019-04-23 16:47:01.650815
+0,Dave Brat,"Repealing Obamacare saves ""our nation more than $2 trillion.""",false,Creative accounting,2015-04-13,2019-04-23 16:47:01.652424
+0,Susan Stimpson,"Virginia House Speaker Bill Howell is ""allied to group pushing MIXED SEX BATHROOMS in Stafford Schools.""",false,Pot shot,2015-04-06,2019-04-23 16:47:01.654035
+0,Randy Forbes,"""Did you know that the U.S. is one of the very few nations in the world without an official language?""",true,Es verdad,2015-04-06,2019-04-23 16:47:01.655652
+0,Dave Brat,"""Since President Obama took office in January 2009, the federal government has issued more than 468,500 pages of regulations.""",barely-true,A misreading claim,2015-03-30,2019-04-23 16:47:01.657334
+0,Ken Plum,"""We've got 40 years of study now that show that, with a good preschool start, you're less likely to be on public dole, you're less likely to be in prison.""",mostly-true,But there's some debate,2015-03-23,2019-04-23 16:47:01.659316
+0,Don Beyer,"""More than 7,000 Americans lost their lives to climate change-fueled events last year.""",false,Beyer beware,2015-03-23,2019-04-23 16:47:01.661122
+0,Rick Perry,"""Thomas Paine wrote that ‘the duty of a patriot is to protect his country from his government.’""",false,Ever hear of Edward Abbey?,2015-03-09,2019-04-23 16:47:01.662769
+0,John Fredericks,"Every illegal immigrant ""can be eligible for up to $36,000 to $38,000 in earned income tax credits without paying a dime in.""",false,Wrong on a number of fronts,2015-03-09,2019-04-23 16:47:01.664442
+0,Rick Perry,"""America produces more oil and gas than any other nation in the world.""",true,Data backs him up,2015-03-02,2019-04-23 16:47:01.666001
+0,Dave Brat,"""...Over 30 years, federal spending on education has grown by 375 percent, but test scores remain flat.""",mostly-true,"Right on testing, off on spending",2015-03-02,2019-04-23 16:47:01.667573
+0,Joseph Yost,"""One third of our age group (Millennials) have moved back in with their parents.""",mostly-true,But it's not unique,2015-02-23,2019-04-23 16:47:01.832645
+0,Scott Surovell,"""When did the decline of coal start? It started when natural gas took off … that started to begin in (President George W.) Bush’s administration.""",half-true,Trends began before Bush II,2015-02-23,2019-04-23 16:47:01.834468
+0,Lori Haas,"In states that have private-sale background checks for handguns ""49 percent fewer women are shot and killed.""",half-true,Cause and effect not certain,2015-02-16,2019-04-23 16:47:01.836242
+0,Don Beyer,"""If you look at the income of average Americans...they’re absolutely flat in constant dollars since 1979.""",mostly-true,Results vary with definitions of income,2015-02-09,2019-04-23 16:47:01.837868
+0,Alfonso Lopez,"Ronald Reagan ""banned ownership of fully automatic rifles. He supported the assault weaspons ban.""",half-true,Hit and miss,2015-02-04,2019-04-23 16:47:01.839489
+0,Barbara Comstock,"""Did you know under President Obama family health care premiums have increased $4,154 on the average?""",barely-true,Dubious math,2015-02-02,2019-04-23 16:47:01.841103
+0,Virginia House Democratic Caucus,"Assault weapons and handguns are allowed in the state Capitol while bullhorns, trumpets, helium balloons and flags on poles are banned.",mostly-true,"Have concealed gun permit, will travel",2015-01-26,2019-04-23 16:47:01.842677
+0,Alfonso Lopez,"On assault weapon violence: ""Ducks have more protection than people in Virginia.""",pants-fire,The duck stops here,2015-01-26,2019-04-23 16:47:01.844249
+0,Bobby Scott,"President Barack Obama’s policies ""have resulted in gas prices being reduced from $3.07 per gallon when he was sworn in in 2009 to $2.30 today.""",false,Running on empty,2015-01-18,2019-04-23 16:47:01.845816
+0,Virginia Education Association,"State ""school funding per pupil is down 16 percent compared to 2009, after adjusting for inflation.""",true,An 'A' for accuracy ,2015-01-12,2019-04-23 16:47:01.847430
+0,Bobby Scott,"""After World War II, we tried, convicted, and, in some cases, executed Japanese soldiers for war crimes that included charges of waterboarding.""",true,But not solely for waterboarding,2015-01-12,2019-04-23 16:47:01.848991
+0,Mark Warner,"Regarding sexual assault against women, ""It’s actually safer not to be in college than it is to be in college.""",barely-true,"Cites old, incomplete research",2015-01-04,2019-04-23 16:47:01.850556
+0,Jim Moran,"Graduation rates of players at major football colleges ""are still twenty points below their male campus peers and worsened in the past three years.""",half-true,"Low rates, but not getting worse",2014-12-30,2019-04-23 16:47:01.852251
+0,Bob Goodlatte,"""The President has decided to move forward with executive actions on immigration that he has said on numerous occasions that he didn’t have the constitutional power to take.""",true,No doubt ,2014-12-29,2019-04-23 16:47:01.853858
+0,Jim Moran,"Only 20 colleges and universities ""have athletic departments with revenue exceeding expenses.""",true,Slam dunk,2014-12-22,2019-04-23 16:47:01.855466
+0,Jim Moran,"""We have a system now where in 40 states, the highest-paid public employee is the state university’s head football or basketball coach.""",mostly-true,But little of their pay comes from taxpayers,2014-12-22,2019-04-23 16:47:01.857062
+0,Jim Webb,"The U.S. has ""5 percent of the world’s population, 25 percent of the world’s known prison population.""",true,U.S. likes its prisons,2014-12-15,2019-04-23 16:47:01.858759
+0,Susan Stimpson,"""Bill Howell has been the consistent force behind every major tax increase in Virginia in the last decade.""",mostly-true,A little complexity to Howell's actions,2014-12-15,2019-04-23 16:47:01.860542
+0,Richard Saslaw,"Female students at UVA ""have a 20 percent chance of being sexually assaulted.""",barely-true,No concrete evidence,2014-12-08,2019-04-23 16:47:01.862835
+0,Jim Webb,"The poorest counties in the U.S. are in Appalachia and ""happen to be more than 90 percent white.""",half-true,Depends on the measure,2014-12-01,2019-04-23 16:47:01.864445
+0,Tim Kaine,"""Every president since Eisenhower has taken executive action to address immigration issues.""",mostly-true,But Obama's action is more sweeping,2014-11-30,2019-04-23 16:47:02.041662
+0,Kathleen Murphy,"""The NRA supported background checks...""",mostly-true,Many caveats to NRA's support,2014-11-24,2019-04-23 16:47:02.043475
+0,David Hallock,"In rural Virginia, ""Sen. Warner ran 8-10 points ahead of a traditional Democrat -- ahead of Senator Kaine, ahead of Governor McAuliffe.""",false,A rural myth,2014-11-21,2019-04-23 16:47:02.045224
+0,Dave Brat,"""I’ll be the only economist in the (U.S.) House.""",true,Doctor in the House,2014-11-09,2019-04-23 16:47:02.046839
+0,Jack Trammell,"Dave Brat said ""the best way to fix Social Security would be to give seniors back what they paid in and no more.""",barely-true,Brat never said this,2014-11-02,2019-04-23 16:47:02.048451
+0,Dave Brat,"""In K-12 education, our kids are scoring at the bottom of science and mathematics right now in the industrialized world -- at the bottom.""",false,U.S. scores aren't that bad,2014-11-02,2019-04-23 16:47:02.050011
+0,James Carr,"""Before World War II, very few people actually had health insurance.""",true,Insurance was rare prior to 1940s,2014-10-30,2019-04-23 16:47:02.051801
+0,Rand Paul,"""$2.4 million of the NIH dollars was spent on ‘origami’ condoms.""",mostly-true,But not your traditional origami,2014-10-27,2019-04-23 16:47:02.053424
+0,Mark Warner,"Ed Gillespie’s ""firm even lobbied for five foreign governments, including a dictator now awaiting trial for war crimes.""",half-true,Important context missing,2014-10-24,2019-04-23 16:47:02.055048
+0,Jim Webb,"In 1968 ""the average corporate CEO made 20 times the average worker’s pay. Today that multiple is about 350.""",mostly-true,Different studies reach different results,2014-10-19,2019-04-23 16:47:02.056651
+0,Mark Warner,Says PolitiFact has ruled that Ed Gillespie’s ads are false and misleading.,half-true,Puts words in our mouth,2014-10-13,2019-04-23 16:47:02.058260
+0,National Rifle Association,"Says Mark Warner ""has supported restrictions on veterans’ second amendment rights.""",mostly-true,The VA has a say with vets,2014-10-06,2019-04-23 16:47:02.059859
+0,Democratic Party of Virginia,"""Hospitals have already begun layoffs, a direct result of Republican inaction"" on Medicaid expansion.",half-true,Many reasons for layoffs,2014-10-06,2019-04-23 16:47:02.061495
+0,Mark Warner,On opposing legislation that would take away existing health care plans.,half-flip,Some swaying here,2014-09-29,2019-04-23 16:47:02.063194
+0,Ed Gillespie,"Says Mark Warner told PolitiFact National's ""Lie of the Year"" in 2013.",false,A lie about lies,2014-09-28,2019-04-23 16:47:02.064802
+0,Bob Goodlatte,"The U.S. Constitution is ""the oldest written constitution still in use today"" among nations.",true,"Some quibble, we don't",2014-09-22,2019-04-23 16:47:02.066466
+0,Robert Sarvis,"""Over 40 of our 100 (House of) Delegates seats go uncontested every year, and over 40 percent of our state senate seats go uncontested every year.""",mostly-true,"Not every election, but close",2014-09-14,2019-04-23 16:47:02.068024
+0,Mark Obenshain,"Virginia Democrats recently enforced voter ID rules that were ""considerably more stringent than those contained in the state law they denounce.""",half-true,Some rules were stricter; some more lenient,2014-09-09,2019-04-23 16:47:02.069589
+0,Ed Gillespie,"Obamacare ""cuts seniors’ Medicare.""",barely-true,Medicare spending will go up,2014-09-08,2019-04-23 16:47:02.071155
+0,Tim Kaine,"Pinnacle Overlook in Southwest Virginia is ""closer to eight other state capitals than to Richmond.""",mostly-true,There's nine; can you name them?,2014-09-01,2019-04-23 16:47:02.072715
+0,Don Beyer,"""The United States is the only industrialized country that does not guarantee paid time off to care for a new child.""",mostly-true,American exceptionalism,2014-08-25,2019-04-23 16:47:02.255491
+0,Mark Warner,On offshore drilling for energy,no-flip,Insists on royalties for states,2014-08-18,2019-04-23 16:47:02.257305
+0,Mike Hymes,"Del. Ben Chafin ""took money away"" from Southwest Virginia schools while voting to build a ""politician's palace.""",false,A misplaced comparison,2014-08-11,2019-04-23 16:47:02.258937
+0,George Barker,"Uncompensated care has ""gone down by 30 percent just in the first few months"" of Medicaid expansion in the states that adopted it.",true,Recent surveys agree,2014-08-10,2019-04-23 16:47:02.260549
+0,Mark Warner,"Ed Gillespie ""supports a personhood amendment.""",false,Proof falls short,2014-08-04,2019-04-23 16:47:02.262225
+0,Ed Gillespie,"""This administration is slashing the Navy to pay for more Obamacare.""",pants-fire,No connection,2014-08-03,2019-04-23 16:47:02.263951
+0,Richard Saslaw,"Governing magazine has ""estimated that in the states that don’t expand Medicaid, a minimum, they said of 40 percent of rural hospitals will close in those states...""",false,A misreading,2014-07-25,2019-04-23 16:47:02.265693
+0,Ed Gillespie,On immigration reform,no-flip,"Wants strong border, more visas",2014-07-21,2019-04-23 16:47:02.267303
+0,Barbara Comstock,"Obamacare ""already has caused millions of hardworking Virginians to lose their health insurance.""",false,Wrong and retracted,2014-07-20,2019-04-23 16:47:02.268989
+0,Mark Sickles,Says 70 percent of Virginia’s Medicaid cost is for seniors in nursing homes.,false,Try less than 10 percent,2014-07-14,2019-04-23 16:47:02.270562
+0,Kirk Cox,"""There are more than 46 million Americans living in poverty today -- the largest number in 54 years.""",mostly-true,"The poverty rate, however, has decreased ",2014-07-11,2019-04-23 16:47:02.272133
+0,Ed Gillespie,"Says Mark Warner has supported Harry Reid ""down the line.""",half-true,"They usually agree, but not always",2014-07-06,2019-04-23 16:47:02.273762
+0,Mark Warner,On a balanced budget amendment.,full-flop,Reversed 1996 position,2014-06-30,2019-04-23 16:47:02.275334
+0,Dave Marsden,"After Massachusetts passed a mandatory health insurance law ""their mortality rate went down...it saved lives.""",mostly-true,Cause and effect not definite,2014-06-27,2019-04-23 16:47:02.276905
+0,Ed Gillespie,"Mark Warner’s ""record is one of acting against"" the Keystone XL pipeline.",barely-true,Warner's ususally been in Keystone's corner,2014-06-23,2019-04-23 16:47:02.278652
+0,Chain email,"Sens. Mark Warner and Tim Kaine voted ""to let the U.N. take OUR guns.""",pants-fire,Wild shot,2014-06-15,2019-04-23 16:47:02.280273
+0,Mark Warner,"""Right now, America has $1.1 trillion of student debt. That’s more than credit card debt.""",true,Much more than credit card debt,2014-06-10,2019-04-23 16:47:02.281873
+0,Ed Gillespie,"The Chamber of Commerce says new carbon regulations will kill ""244,000 jobs a year"" and cost average families ""$1,200 a year.""",false,Blowing smoke,2014-06-09,2019-04-23 16:47:02.283491
+0,Laura Ingraham,"U.S. Reps. Eric Cantor and Luis Gutierrez were ""touring the country last year … joined at the hip, working together in a bipartisan fashion indeed for the goal of immigration reform.""",pants-fire,Tour de farce,2014-06-06,2019-04-23 16:47:02.285270
+0,Dave Brat,"Eric Cantor ""voted to fully fund Obamacare in October.""",barely-true,Lots missing from this claim,2014-06-02,2019-04-23 16:47:02.286893
+0,Eric Cantor,"Says a ""liberal"" immigration reform group endorsed his GOP primary opponent, Dave Brat.",false,Never happened,2014-05-30,2019-04-23 16:47:02.443405
+0,Democratic Party of Virginia,"In 2007, Ed Gillespie ""was paid $300,000 to be the frontman for a coalition that made the individual mandate the centerpiece of its health reform plan.""",barely-true,Exaggerations galore,2014-05-23,2019-04-23 16:47:02.445295
+0,Campaign for Liberty,"""Estimates for adopting Obamacare’s Medicaid expansion show it will cost Virginia taxpayers $902 million through 2022.""",barely-true,Ignores current estimate showing savings,2014-05-19,2019-04-23 16:47:02.446926
+0,Republican Party of Virginia,"""Ninety-seven percent of the time. That’s how often Mark Warner votes with President Obama.""",true,Near par for Senate Democrats ,2014-05-15,2019-04-23 16:47:02.448534
+0,Thomas Garrett Jr.,"""Last year the (Medicaid Fraud Control Unit) in Virginia alone recovered over $200 million!""",barely-true,A tiny fraction of the fraud occurred in Virginia,2014-05-11,2019-04-23 16:47:02.450159
+0,Democratic Party of Virginia,Says Virginia House Republicans are sacrificing $5 million a day in U.S. funds by refusing to expand Medicaid.,mostly-true,Not quite that much,2014-05-05,2019-04-23 16:47:02.451779
+0,Eric Cantor,"Dave Brat ""worked on Democrat Gov. Tim Kaine’s Council of Economic Advisors while Kaine tried to raise our taxes by over $1 billion.""",mostly-true,Council did not advise on tax policies,2014-04-28,2019-04-23 16:47:02.453392
+0,Democratic Party of Virginia,"Ed Gillespie’s 2006 book ""promoted an individual health care mandate, and recommends that it be enforced by the IRS through the income tax code.""",mostly-true,Reasonable interpretation of hazy prose ,2014-04-27,2019-04-23 16:47:02.455011
+0,Robert Sarvis,"""Did you know US population growth is at its lowest since the Great Depression?""",true,We know that now,2014-04-21,2019-04-23 16:47:02.456622
+0,Morgan Griffith,"""From 1972 until 2011, the number of EPA employees increased by 107 percent while the number of total federal personnel decreased by 15 percent.""",true,Not blowing smoke,2014-04-14,2019-04-23 16:47:02.458234
+0,Thomas Garrett Jr.,"Federal money for Medicaid expansion ""is guaranteed for a few years and then goes away.""",barely-true,"Under law, U.S. never pays less than 90 percent ",2014-04-13,2019-04-23 16:47:02.459842
+0,Terry McAuliffe,"Says the Medicaid fraud rate in Virginia was ""fact-checked"" and found to be ""0.47 percent.""",false,Wrong on both counts,2014-04-08,2019-04-23 16:47:02.461453
+0,Republican Party of Virginia,"Gov. McAuliffe's budget would ""raid school, other $$ 4 Obamacare in VA.""",barely-true,GOP sizzle fizzles,2014-04-06,2019-04-23 16:47:02.463070
+0,Terry McAuliffe,"If the legislature refuses to expand Medicaid, ""27 states are going to get our money – Virginia taxpayer money – into their states to provide health care for their citizens, paid for by us.""",barely-true,Microscopic cause and effect ,2014-03-31,2019-04-23 16:47:02.464691
+0,Terry McAuliffe,"State Medicaid expansion ""will save our treasury $1 billion over the next eight years.""",half-true,More like $601 million,2014-03-30,2019-04-23 16:47:02.466352
+0,Jimmie Massie,"In Virginia’s Medicaid program, ""approximately 30 percent, or $2.7 billion a year, is lost to waste, fraud and inefficiencies.""",barely-true,"Hypothesis, not fact",2014-03-23,2019-04-23 16:47:02.468206
+0,Barbara Comstock,"Says five Democratic state senators were for her bicycle tailgating bill ""before they were against it.""",true,Pedaling the truth,2014-03-10,2019-04-23 16:47:02.469833
+0,Dwight Jones,"The Redskins Training Camp deal ""generated $40 million in new private investment in the city.""",half-true,Counting checks before they're signed,2014-03-04,2019-04-23 16:47:02.471530
+0,Virginia Interfaith Center for Public Policy,"""In 1968, a full-time worker earning minimum wage, could actually support a family of three above the poverty line. Today, that same worker would earn less than the poverty line for a family of two.""",mostly-true,Wage's buying power lower than 1968,2014-03-03,2019-04-23 16:47:02.473161
+0,Mark Obenshain,"""There are 4.7 percent of Virginians who are minimum wage earners who are over 25 years of age working full-time and trying to raise a family.""",mostly-true,Credible conclusion despite wrong stats,2014-02-24,2019-04-23 16:47:02.474773
+0,Terry McAuliffe,"""Seventy percent of all uninsured live in households in which at least one person is working.""",true,Nailed it,2014-02-17,2019-04-23 16:47:02.684705
+0,Dwight Jones,"Richmond is ""the most vegan-friendly city.""",false,No meat here,2014-02-14,2019-04-23 16:47:02.686523
+0,Ed Gillespie,"Mark Warner voted for ""nearly $1 trillion in new taxes and $7 trillion in new debt.""",true,On Mark,2014-02-10,2019-04-23 16:47:02.688134
+0,Eric Cantor,"""The CBO’s latest report confirms what Republicans have been saying for years now. Under Obamacare, millions of hardworking Americans will lose their jobs.""",barely-true,Report doesn't predict layoffs,2014-02-07,2019-04-23 16:47:02.689734
+0,Scott Surovell,"""Eighty-five percent of the states in the United States that had electrocution have now abolished it.""",mostly-true,Slightly off,2014-02-03,2019-04-23 16:47:02.691343
+0,Terry McAuliffe,"Virginia is ""the No. 1 recipient of federal dollars.""",barely-true,"All things counted, no",2014-01-31,2019-04-23 16:47:02.692943
+0,Virginia Senate Democratic Caucus,On sharing power with Republicans,full-flop,The lieutenant governor rules,2014-01-29,2019-04-23 16:47:02.694797
+0,Ed Gillespie,"""Obamacare passed by just one vote in the Senate. It wouldn’t have passed without Mark Warner’s vote.""",mostly-true,Improved effort in making old charge,2014-01-27,2019-04-23 16:47:02.696490
+0,Mark Warner,"""The largest enterprise in the world is the federal government of the United States of America""",half-true,Don't forget China's government,2014-01-24,2019-04-23 16:47:02.698052
+0,William Howell,"In Virginia, ""Medicaid has grown by 1,600 percent in the last 30 years.""",true,On the money,2014-01-20,2019-04-23 16:47:02.699621
+0,Bob McDonnell,"""We expanded charter"" schools.",half-true,Underwhelming growth,2014-01-13,2019-04-23 16:47:02.701176
+0,Mark Obenshain,"""Of the four statewide races this century within a 300-vote margin, three have been overturned in a recount.""",true,But not predictive of Virginia's recount,2013-12-17,2019-04-23 16:47:02.702735
+0,Ken Cuccinelli,"Mark Warner cast ""the tiebreaking vote"" to pass Obamacare.",barely-true,"59 others also cast ""the tiebreaking vote""",2013-11-25,2019-04-23 16:47:02.704379
+0,Ken Cuccinelli,"Terry McAuliffe ""wants to raise your taxes $1,700 to pay for his infinite promises.""",false,A stew of questionable assumptions ,2013-11-01,2019-04-23 16:47:02.706134
+0,Terry McAuliffe,"Ken Cuccinelli would ""take money away from public schools to fund private schools.""",barely-true,Greatly exaggerated claim,2013-11-01,2019-04-23 16:47:02.707718
+0,Next Generation Climate Action Committee,"Says Ken Cuccinelli wants ""to eliminate all forms of birth control.""",pants-fire,Explosive charge is a dud,2013-10-27,2019-04-23 16:47:02.709276
+0,Mark Obenshain,"""Mark Herring voted to allow sex offenders, including rapists, to serve shorter sentences.""",barely-true,Herring voted against changing sentencing procedures,2013-10-21,2019-04-23 16:47:02.710838
+0,Ken Cuccinelli,"Since Obamacare became law, ""most of our new jobs have been part-time jobs.""",false,Criticism would have been better focused on this year,2013-10-18,2019-04-23 16:47:02.712485
+0,Bob McDonnell,"""It’s been 4 and a half years since the United States Senate passed a budget.""",false,Except for the budget passed this year,2013-10-14,2019-04-23 16:47:02.714071
+0,Ken Cuccinelli,"Terry McAuliffe has ""threatened to shut down Virginia’s government if his budget plan isn’t supported.""",false,Constitutional problem with claim,2013-10-11,2019-04-23 16:47:02.715637
+0,Ken Cuccinelli,"Virginia is ""the number one state per capita in screening out people with mental illness from gun purchases.""",mostly-true,Foiled by Pennsylvania,2013-10-07,2019-04-23 16:47:02.887126
+0,Jim Moran,"The growth in health care costs ""has been reined in through the Affordable Care Act.""",barely-true,Exaggeration ,2013-10-04,2019-04-23 16:47:02.888939
+0,Terry McAuliffe,"Ken Cuccinelli ""tried to shut down"" state government.",pants-fire,Manufactured crisis,2013-10-02,2019-04-23 16:47:02.890556
+0,Terry McAuliffe,"Under Cuccinelli’s tax cut plan, ""school divisions across Virginia could be forced to fire over 8,000 teachers.""",false,Distorts Cuccinelli's plan,2013-09-27,2019-04-23 16:47:02.892158
+0,Terry McAuliffe,Says Ken Cuccinelli tried to make it more difficult for mothers to obtain divorces.,half-true,UPDATED: Divorce bill would have equally affected dads,2013-09-26,2019-04-23 16:47:02.893753
+0,Ken Cuccinelli,"""Terry McAuliffe cashed in, walking away with millions"" from the demise of Global Crossing.",false,McAuliffe sold stock three years before company's failure ,2013-09-23,2019-04-23 16:47:02.895359
+0,Terry McAuliffe,"""Cuccinelli wants to make all abortion illegal, even in cases of rape and incest, even to protect a woman’s health.""",barely-true,Cuccinelli backs abortion to save a mother's life,2013-09-19,2019-04-23 16:47:02.896952
+0,Ken Cuccinelli,"""I’ve never supported legislation that invades people’s choices about contraception.""",half-true,But has backed bills that open legal challenges to the pill,2013-09-16,2019-04-23 16:47:02.898551
+0,Mayors Against Illegal Guns,"""Rep. Frank Wolf voted to allow terror suspects to buy guns.""",half-true,Omits part of the story,2013-09-06,2019-04-23 16:47:02.900241
+0,Ken Cuccinelli,"""There’s only one candidate under investigation -- Terry McAuliffe.""",false,Big accusation lacks proof,2013-09-03,2019-04-23 16:47:02.901958
+0,Terry McAuliffe,Says Ken Cuccinelli supported a law that could allow people to carry missile launchers into airports.,barely-true,His claim is a dud,2013-09-03,2019-04-23 16:47:02.903587
+0,Ken Cuccinelli,"Says Terry McAuliffe is ""the person who invented the scheme to rent out the Lincoln Bedroom.""",false,Clinton's idea; McAuliffe helped carry it out,2013-08-26,2019-04-23 16:47:02.905186
+0,Eric Cantor,"Under Obamacare, ""The IRS will have access to the American people’s protected health care information.""",pants-fire,Selling snake oil,2013-08-19,2019-04-23 16:47:02.906888
+0,Ken Cuccinelli,Says Virginia saved $300 million by rebidding a Metrorail construction project to exclude guaranteed union contracts.,half-true,Contract was never rebid,2013-08-12,2019-04-23 16:47:02.908620
+0,Ken Cuccinelli,"""Every (personhood) bill I’ve ever support has either had language that says we’re conforming to the constitutional rulings of the Supreme Court or something to that effect.""",false,Not always,2013-08-10,2019-04-23 16:47:02.910228
+0,Terry McAuliffe,A judge took the Star Scientific tax case away from Ken Cuccinelli,barely-true,Because Cuccinelli asked,2013-08-05,2019-04-23 16:47:02.911820
+0,Democratic Party of Virginia,"""In his book, (Ken) Cuccinelli questions whether Medicare and Social Security should exist.""",barely-true,Skipping chapters,2013-07-22,2019-04-23 16:47:02.913407
+0,Terry McAuliffe,"Says an investigative report concluded Ken Cuccinelli ""should have been prosecuted"" for disclosure violations, but Virginia's law was too weak.",pants-fire,Pure fantasy,2013-07-20,2019-04-23 16:47:02.915084
+0,Terry McAuliffe,"""Women still earn about 77 cents for every dollar a man earns for working the same job.""",barely-true,Botches data,2013-07-15,2019-04-23 16:47:02.916674
+0,Dave Schwartz,"""Twenty-four percent of doctors in Virginia currently don’t accept new Medicaid patients because the reimbursement rates are so low.""",mostly-true,Generally accurate,2013-07-12,2019-04-23 16:47:02.918350
+0,Ken Cuccinelli,"""I’m the only candidate for governor who’s rolled out any policies so far.""",false,What about Terry McAuliffe?,2013-07-10,2019-04-23 16:47:03.100525
+0,Paul Begala,"Says Ken Cuccinelli ""attacked churches for helping the poor.""",false,Uncharitable distortion,2013-07-08,2019-04-23 16:47:03.102326
+0,Ken Cuccinelli,"Says Terry McAuliffe ""opposes"" Virginia’s right-to-work law.",false,No credible proof,2013-07-03,2019-04-23 16:47:03.103867
+0,E.W. Jackson,"""In 1960, most black children were raised in two-parent, monogamous families."" Today ""we have only 20 percent of black children being raised in two-parent, monogamous families...""",mostly-true,Slightly overstates decline ,2013-07-01,2019-04-23 16:47:03.105426
+0,Mark Herring,On gay marriage,full-flop,Backs same-sex marriage now ,2013-06-24,2019-04-23 16:47:03.106989
+0,Terry McAuliffe,"The state GOP ticket ""says their top priority is a career-long mission to outlaw abortion in all cases and ban some common forms of birth control.""",false,GOP ticket never said that,2013-06-21,2019-04-23 16:47:03.108795
+0,Morgan Griffith,"""The Government Accountability Office estimated (Obamacare) will add to the long-term deficit by $6.2 trillion.""",barely-true,Distorts study,2013-06-17,2019-04-23 16:47:03.110477
+0,Terry McAuliffe,On the coal industry,full-flop,Now a friend of coal,2013-06-14,2019-04-23 16:47:03.112157
+0,Stephen Martin,Says Democratic Party created Planned Parenthood,false,Claim leads to apology,2013-06-10,2019-04-23 16:47:03.113717
+0,Stephen Martin,Says Democratic Party created the Ku Klux Klan.,false,Martin regrets statement,2013-06-10,2019-04-23 16:47:03.115335
+0,Ken Cuccinelli,On restoring voting rights to non-violent felons.,full-flop,"He's worried about ""felony creep""",2013-06-03,2019-04-23 16:47:03.117003
+0,Terry McAuliffe,On oil drilling off Virginia's coast.,full-flop,Says technology has improved,2013-06-03,2019-04-23 16:47:03.118642
+0,Terry McAuliffe,"""In our community college system (state) cuts have reduced funding per student by $1,908.""",mostly-true,"Close, but not quite that much",2013-05-28,2019-04-23 16:47:03.120243
+0,Mark Warner,"Says 70,000 children ""have lost their Head Start slots"" because of the sequester.",barely-true,Assumes worst-case estimate has already occurred,2013-05-28,2019-04-23 16:47:03.121845
+0,Terry McAuliffe,"""Of our 98,000 teachers who are K-12, over 53,000 of those teachers today are over 50 years old.""",false,Virginia teachers aren't that gray,2013-05-17,2019-04-23 16:47:03.123451
+0,Ron Meyer,"""Only three in 10 young Americans under 30 -- 30 percent under 30 -- have full-time work.""",half-true,Misinterprets data,2013-05-13,2019-04-23 16:47:03.125047
+0,Ken Cuccinelli,"""We have never gone a year in Virginia -- ever -- without passing a budget -- ever.""",false,Except in 2001,2013-05-06,2019-04-23 16:47:03.126836
+0,Randy Forbes,"The U.S. Army had a training program that put ""evangelical Christians, Catholics and Mormons in the same category of religious extremism as we do al-Qaida.""",barely-true,Sweeping claim about an isolated event,2013-05-03,2019-04-23 16:47:03.128454
+0,Bob Goodlatte,"Federal prosecutions for lying on background checks to buy guns are ""down 40 percent"" under President Barack Obama.",half-true,"Sure, but Bush's numbers were already microscopic",2013-05-01,2019-04-23 16:47:03.130085
+0,Susan B. Anthony List,"New Virginia regulations on abortion clinics ""provide the same sanitary environment we expect of dental offices.""",pants-fire,Downplays major changes for abortion clinics,2013-04-28,2019-04-23 16:47:03.131661
+0,Randy Forbes,Says the U.S. fleet of attack submarines is scheduled to fall below the 48 boats that Navy says it needs to carry out current missions.,true,"In 2025, unless funding improves",2013-04-26,2019-04-23 16:47:03.313812
+0,Dwight Jones,"Says under his utility rate plan, ""An estimated 50 percent of our residential households will see a decrease in their water and wastewater bills.""",mostly-true,Half will also see water bills rise,2013-04-22,2019-04-23 16:47:03.315721
+0,Virginia Society for Human Life,"Under Obamacare, Virginia taxpayers would have been ""forced to pay for abortions"" if the General Assembly had not recently intervened.",false,"Policy holders, not government, would have paid for option",2013-04-15,2019-04-23 16:47:03.317470
+0,NARAL Pro-Choice Virginia,"Abortion coverage is a standard insurance benefit ""in nearly 90 percent of private plans sold in the U.S.""",barely-true,"Old, disputed study",2013-04-15,2019-04-23 16:47:03.319125
+0,Bobby Scott,"Paul Ryan’s budget ""keeps the Obamacare taxes and spending cuts that paid for Obamacare, but then cuts all of the benefits.""",mostly-true,Budget is based on Obamacare taxes coming in ,2013-04-08,2019-04-23 16:47:03.320749
+0,Pete Snyder,"""A study by the University of Virginia pulls back the curtain on Medicaid’s tragically bad outcomes, including ‘increased risk of adjusted mortality.’""",half-true,Overstates findings,2013-04-01,2019-04-23 16:47:03.322353
+0,National Association for Gun Rights,"U.S. Rep. Scott Rigell ""wants gun owners in a federal registration system.""",pants-fire,No ammo ,2013-03-18,2019-04-23 16:47:03.323957
+0,Jamie Radtke,"The transportation package passed by the General Assembly would impose the ""largest tax increase in Virginia’s history.""",half-true,Not when inflation is considered,2013-03-15,2019-04-23 16:47:03.325553
+0,Eric Cantor,"""Over the last 20 years, the world has changed. It used to be that one could make a career out of working for one company. Today, the average worker stays at his or her job for barely four years.""",barely-true,Employment tenure has increased,2013-03-12,2019-04-23 16:47:03.327293
+0,Bob McDonnell,On raising taxes.,full-flop,Different realities of campaigning and governing,2013-03-08,2019-04-23 16:47:03.328904
+0,Ken Cuccinelli,"Virginia is ""the only state"" that has a tradition of attorneys general resigning if they run for governor.",true,A unique custom,2013-03-01,2019-04-23 16:47:03.330509
+0,Eric Cantor,"""The National Science Foundation spent $1.2 million paying seniors to play World of Warcraft to study the impact it had on their brain.""",pants-fire,Pure fantasy,2013-02-22,2019-04-23 16:47:03.332111
+0,Eric Cantor,"""Collectively states are spending more on Medicaid than they do on K-12 education.""",true,But U.S. picks up most of the Medicaid tab for states,2013-02-19,2019-04-23 16:47:03.333711
+0,Grover Norquist,"In Virginia ""there has been a billion dollars in surplus over the last three years. The legislature has spent less than 1 percent of that on roads.""",false,Wrong number ,2013-02-18,2019-04-23 16:47:03.335318
+0,Richard Saslaw,"Except for Virginia, ""the other 49 states keep raising their gas tax.""",pants-fire,Fueless statement,2013-02-11,2019-04-23 16:47:03.336922
+0,Bob McDonnell,"""The brutal fact is, when it comes to education, America is slipping"" behind other nations.",barely-true,Doesn't add up,2013-02-08,2019-04-23 16:47:03.338491
+0,Richard Saslaw,"""One-third of the gasoline is purchased by out-of-state people"" in Virginia",false,No fuel for this claim,2013-02-05,2019-04-23 16:47:03.340053
+0,Bob McDonnell,"Says his plan to raise car registration to $56 would still leave Virginia with a fee that’s ""equal to or lower than most states.""",pants-fire,Wrong and without basis,2013-02-01,2019-04-23 16:47:03.341606
+0,Terry McAuliffe,"Says Virginia economic development officials ""decided they didn’t want to bid on"" his company's electric automobile plant.",false,Company didn't address state concerns,2013-01-24,2019-04-23 16:47:03.343201
+0,David Toscano,"Virginia ""spends less per student today than we did in 2008.""",true,Numbers add up,2013-01-21,2019-04-23 16:47:03.344757
+0,Bob McDonnell,"Says his transportation plan ""would make Virginia the first state in the nation to eliminate the state tax on gasoline.""",true,All states have a gas excise tax,2013-01-10,2019-04-23 16:47:03.505230
+0,Patrick Wales,"There is ""over 20 times more energy"" in a proposed Southside uranium mining site than ""there is in all the oil that’s estimated to be off Virginia’s coast""",true,A lode to ponder,2013-01-07,2019-04-23 16:47:03.507096
+0,Jimmy Barrett,Says Virginia is the biggest state that does not have a major league sports team.,true,Nothing to cheer about,2012-12-26,2019-04-23 16:47:03.508681
+0,Bob McDonnell,"""The average kid comes out of Virginia colleges with about $25,000-plus in debt.""",half-true,Omits key information,2012-12-24,2019-04-23 16:47:03.510264
+0,Bob McDonnell,"Northern Virginia is the most ""heavily trafficked place in the country.""",true,Driving headache,2012-12-20,2019-04-23 16:47:03.511837
+0,Jim Moran,"Says budget savings by reducing pay and benefits for federal employees total $103 billion over 10 years -- more than $50,000 per worker.",true,Lean times,2012-12-17,2019-04-23 16:47:03.513492
+0,Bob Goodlatte,"""The Agriculture Department estimates that roughly 42 percent of the corn crop will be used to make ethanol -- more than the amount of corn used to feed livestock and poultry in the United States.""",half-true,Kernels of truth,2012-12-10,2019-04-23 16:47:03.515225
+0,Tim Kaine,"Bill Clinton presided over ""the biggest expansion of the American economy since World War II.""",mostly-true,Not a record by all counts,2012-10-29,2019-04-23 16:47:03.516848
+0,Tim Kaine,"""As governor, I cut $5 billion in spending.""",mostly-true,Includes cuts after he left office,2012-10-24,2019-04-23 16:47:03.518581
+0,Paul Hirschbiel,"""Virginia papers called (Scott) Rigell’s campaign ‘Mostly False.’""",pants-fire,"We pass judgments on statements, not campaigns",2012-10-22,2019-04-23 16:47:03.520208
+0,George Allen,"""The poverty rate amongst women is the worst it’s been in 17 years and the extreme poverty rate is the worst it’s ever been.""",true,Tough times for many,2012-10-22,2019-04-23 16:47:03.521820
+0,Tim Kaine,"""The tax burden on Virginia families was lower under Tim Kaine than under George Allen.""",barely-true,Superficial claim,2012-10-15,2019-04-23 16:47:03.523442
+0,George Allen,"""Repealing and replacing Obamacare – that’s going to save $1 trillion over a 10-year period.""",false,Not supported by evidence,2012-10-11,2019-04-23 16:47:03.525047
+0,Wayne Powell,"Eric Cantor ""took $5 million from Sheldon Adelson,"" a Las Vegas casino owner.",barely-true,The money went to a super PAC Cantor backs,2012-10-08,2019-04-23 16:47:03.526791
+0,Eric Cantor,On sequestration,full-flop,Seeking distance from a situation he helped create,2012-10-08,2019-04-23 16:47:03.528407
+0,Wayne Powell,Says Eric Cantor voted to assure Congress would be paid if the government shut down and against guaranteeing troops would be paid.,pants-fire,Huge distortion,2012-10-04,2019-04-23 16:47:03.530012
+0,Tim Kaine,"George Allen ""voted to end Pell Grants for 84,000 students.""",mostly-true,"Even so, the program would have still grown",2012-10-01,2019-04-23 16:47:03.531630
+0,George Allen,"""Tim Kaine announced he wants to raise taxes on everyone.""",false,Hyperbole,2012-09-24,2019-04-23 16:47:03.533233
+0,George Allen,"""Tim Kaine doubled down in his support of devastating defense cuts, saying the ‘the deal was the right thing to do.’""",half-true,Lacking context,2012-09-20,2019-04-23 16:47:03.534847
+0,Eric Cantor,"Wayne Powell has a ""stated position of having no objection to taking `In God We Trust"" off of U.S. currency.""",true,It's in black and white,2012-09-10,2019-04-23 16:47:03.536634
+0,Bob McDonnell,"The GOP platform that seeks further limits on abortion and is silent on an exception for rape ""has been there for more than 30 years.""",true,Language largely unchanged for last seven conventions,2012-09-04,2019-04-23 16:47:03.693717
+0,Crossroads GPS,"""When Tim Kaine was governor, spending soared, blowing holes in the budget every year.""",barely-true,Mixing apples and oranges,2012-08-31,2019-04-23 16:47:03.695658
+0,Wayne Powell,"""This year, Eric Cantor has received more money from oil companies than any other member of Congress.""",false,Retracts statement,2012-08-27,2019-04-23 16:47:03.697277
+0,George Allen,The state government workforce grew when Tim Kaine was governor.,barely-true,Cherry-picked figures,2012-08-27,2019-04-23 16:47:03.698896
+0,U.S. Chamber of Commerce,"Tim Kaine supported ""higher energy costs for families.""",barely-true,Dim evidence,2012-08-21,2019-04-23 16:47:03.700487
+0,Bob McDonnell,"The Obama administration is ""unwinding our nation’s welfare-to-work requirements.""",false,Evidence points to opposite conclusion,2012-08-13,2019-04-23 16:47:03.702384
+0,George Allen,"""When I left the Senate, we were on a trajectory towards a balanced budget.""",half-true,Omits impact of extending Bush tax cuts,2012-08-07,2019-04-23 16:47:03.704034
+0,George Allen,"Tim Kaine, as governor, proposed tax increases on people earning ""as little as $17,000.""",true,In Kaine's last budget,2012-08-03,2019-04-23 16:47:03.705657
+0,Tim Kaine,Says former Sen. George Allen voted four times to raise his own pay.,mostly-true,Three specific votes,2012-07-29,2019-04-23 16:47:03.707298
+0,Tim Kaine,"""I ended up my time as governor with a general fund budget that was smaller than the one I started with.""",true,The recession required cuts,2012-07-27,2019-04-23 16:47:03.708864
+0,Eric Cantor,"Because of the health care act, ""The people who have health care and like it in this county are not going to be able to keep what they have.""",barely-true,Lots of exaggeration,2012-07-16,2019-04-23 16:47:03.710434
+0,Bob McDonnell,"States still face a ""mandate"" to expand Medicaid coverage under President Obama's health care reform law.",pants-fire,Gov. misstated ruling for more than a day ,2012-07-06,2019-04-23 16:47:03.712006
+0,Majority PAC,"Tim Kaine ""made Virginia the best state for business four years in a row.""",barely-true,Pro-business traditions predate Kaine ,2012-07-02,2019-04-23 16:47:03.713575
+0,George Allen,"President Obama's health care law is ""a government takeover of healthcare.""",false,A falsehood that won't die,2012-07-01,2019-04-23 16:47:03.715220
+0,Gerry Connolly,"Ronald Reagan ""raised taxes in 1982, 1984, 1985, 1986 and 1987.""",true,Reagan cut tax deals with Congress,2012-06-25,2019-04-23 16:47:03.716826
+0,American Crossroads,"""As Virginia lost over 65,000 jobs, (Tim) Kaine put partisan ambitions first"" by serving as DNC chairman during the last year of his governorship.",half-true,All states saw rising unemployment in 2009,2012-06-22,2019-04-23 16:47:03.718545
+0,American Crossroads,"Tim Kaine urged ""$500 billion in Medicare cuts.""",false,Recycled rubbish,2012-06-20,2019-04-23 16:47:03.720178
+0,George Allen,"""Before I was governor, tuition was skyrocketing and we stopped that. We capped and then we froze college tuition.""",true,Thanks to a good economy,2012-06-18,2019-04-23 16:47:03.721792
+0,Tim Kaine,"Virginia women earn ""only 79 cents to each dollar earned by men...""",mostly-true,Many ways to look at pay gap ,2012-06-15,2019-04-23 16:47:03.723585
+0,Bob McDonnell,"Virginia ""is home to more veterans per capita than any state in America.""",false,Virginia ranks third,2012-06-11,2019-04-23 16:47:03.725198
+0,E.W. Jackson,"""In Galveston, Texas, they have allowed people to privatize part of their Social Security. And people are building wealth.""",true,"Plan works, but some better off with Social Security",2012-06-08,2019-04-23 16:47:03.896775
+0,Bob Marshall,"Homosexual behavior ""cuts your life by about 20 years.""",false,"""Gross misrepresentation"" of research",2012-06-07,2019-04-23 16:47:03.898592
+0,Jim Webb,"President Obama budget request for veterans is ""more than double the amount in constant dollars appropriated in 1980, when the veterans population was larger by a third.""",true,Bipartisan effort has helped veterans,2012-06-04,2019-04-23 16:47:03.900218
+0,Jim Moran,"""According to ATF data, 70 percent of firearms recovered and traced in drug cartel crimes in Mexico originated from the United States.""",mostly-true, Guns used in crimes but not necessarily drug trafficking,2012-05-29,2019-04-23 16:47:03.901831
+0,Corey Stewart,"Prince William County ""has cut violent crime in half"" since instituting a crackdown on illegal immigration.",barely-true,FBI and State Police stats tell different story,2012-05-25,2019-04-23 16:47:03.903688
+0,Tim Kaine,"George Allen and his colleagues in the Senate ""turned the biggest surplus in the history of the United States into the biggest deficit in the history of the United States.""",half-true,Updated with new ruling to reflect GDP,2012-05-15,2019-04-23 16:47:03.905311
+0,Tim Kaine,"Says when he was governor, ""we expanded participation in Virginia in early childhood programs by nearly 40 percent.""",true,No doubt,2012-05-11,2019-04-23 16:47:03.906944
+0,Jamie Radtke,"If Congress froze the current spending level and then cut it by 2 percent annually, ""we could balance the budget in five years.""",mostly-true,Doesn't factor growth of entitlements,2012-05-10,2019-04-23 16:47:03.908527
+0,Bob McDonnell,"The U.S. economy is ""recovering slower than Europe """,false,Abroad error,2012-05-07,2019-04-23 16:47:03.910102
+0,Frank Wolf,"Says the Congressional Budget Office has estimated ""every penny of the federal budget will go to interest on the debt and entitlement spending by 2025.""",true,But a rosier scenario also exists,2012-04-23,2019-04-23 16:47:03.911679
+0,Jamie Radtke,"George Allen ""voted for 40,000 earmarks.""",mostly-true,Spending bills were loaded with pork,2012-04-18,2019-04-23 16:47:03.913251
+0,Bob McDonnell,"Says a bill requiring ultrasounds before abortions ""was supported by Republicans and Democrats.""",half-true,Only three of 52 Dems backed bill ,2012-04-13,2019-04-23 16:47:03.914826
+0,Barack Obama,"""Under President Obama, domestic oil production is at an eight-year high.""",mostly-true,"Production up, but not on federal land last year ",2012-04-09,2019-04-23 16:47:03.916465
+0,Morgan Griffith,"""On most things except witch trials, Virginia will always have been first.""",false,Virginia was first by a spell,2012-04-09,2019-04-23 16:47:03.918092
+0,Scott Lingamfelter,"Tim Kaine ""reduced higher education funding by 25 percent when he was governor, driving up tuition...""",mostly-true,"Cuts had bipartisan support, until now",2012-04-04,2019-04-23 16:47:03.919747
+0,Robert Hurt,"The CBO says the cost of health care reform will rise to $1.8 trillion, ""increasing the price to far greater than the $900 billion"" originally projected.",barely-true,Skewed comparison of numbers ,2012-03-26,2019-04-23 16:47:03.921370
+0,Jim Moran,"""And the revenue generated by drilling off Virginia’s coast? $40 million over 10 years.""",barely-true,Omits lucrative royalties,2012-03-23,2019-04-23 16:47:03.923175
+0,Bob McDonnell,"""This bill allows Virginia to join about 23 other states that have an ultrasound procedure"" before an abortion.",mostly-true,But only nine states mandate women get them,2012-03-21,2019-04-23 16:47:03.924812
+0,Frank Wolf,"""In 1950, the average American lived for 68 years and 16 workers supported one retiree. Today, the average life expectancy is 78 and three workers support one retiree.""",true,No doubt about it,2012-03-16,2019-04-23 16:47:03.926428
+0,Bob McDonnell,"""Seven out of the 10 states with the lowest unemployment rates (have) Republican governors … That approach that Republicans are using is working.""",half-true,Flimsy statistic,2012-03-12,2019-04-23 16:47:03.928045
+0,George Allen,"Says he ""cut taxes by more than $600 million"" when he was governor.",true,Right on the money,2012-03-09,2019-04-23 16:47:04.087213
+0,Gerry Connolly,"Says Obama has ""doubled the stock market from where we started when he was sworn into office""",barely-true,Dates are crucial,2012-03-08,2019-04-23 16:47:04.089534
+0,Bob McDonnell,"President Obama's ""budget would call for about $25 trillion in debt by the end of his term, if he was re-elected.""",barely-true,An exaggerated claim,2012-03-05,2019-04-23 16:47:04.091230
+0,Eric Cantor,"President Obama pushed through the stimulus ""based on the promise of keeping unemployment under 8 percent.""",barely-true,"A projection, not a promise",2012-03-02,2019-04-23 16:47:04.092855
+0,Janet Howell,"""It’s going to be harder to vote in Virginia than it is now to buy a gun...""",half-true,"Some truth in a ""rhetorical slur""",2012-02-27,2019-04-23 16:47:04.094478
+0,Bob McDonnell,On mandatory ultrasounds before abortions.,no-flip,Never endorsed use of invasive ultrasounds,2012-02-24,2019-04-23 16:47:04.096095
+0,U.S. Chamber of Commerce,"""As Virginia’s governor, Allen cut spending and waste with bipartisan support.""",half-true,"Overall spending went up, but some programs were cut",2012-02-23,2019-04-23 16:47:04.097713
+0,George Allen,The cost of a gas tank fill-up has risen $30 since Barack Obama became president.,mostly-true,Presidents don't control gas prices,2012-02-20,2019-04-23 16:47:04.099341
+0,Martin O'Malley,"Maryland is ""creating jobs at 2 ½ times the rate that Virginia is.""",false,Most stats put the states neck and neck,2012-02-13,2019-04-23 16:47:04.100961
+0,Bob Marshall,"""You're supposed to throw away your shoes"" if mercury from a broken CFL light bulb gets on them.",false,A wet wipe will suffice ,2012-02-13,2019-04-23 16:47:04.102580
+0,George Barker,Says Gov. Bob McDonnell's budget would cut pre-kindergarten programs.,barely-true,Pre-K spending would go up,2012-02-09,2019-04-23 16:47:04.104190
+0,Kitty Boitnott,"Public education has been permanently cut ""by $1.6 billion through changes in the Standards of Quality funding formula.""",mostly-true,Number slightly off,2012-02-07,2019-04-23 16:47:04.105764
+0,Randy Forbes,"""The national debt is equal to $48,700 for every American or $128,300 for every U.S. household. It is now equivalent to the size of our entire economy.""",true,The numbers add up,2012-02-03,2019-04-23 16:47:04.107346
+0,David Englin,"""A cashier earning $20,000 per year pays the same (Virginia) income tax rate as a hedge fund manager earning $20 million per year.""",false,A faulty deduction,2012-02-01,2019-04-23 16:47:04.108917
+0,James Stegmaier,"""Chesterfield has eliminated more positions from its general government operations than the Commonwealth has from the entire state government since (fiscal) 2009.""",true,Who would have guessed?,2012-01-29,2019-04-23 16:47:04.110922
+0,Jim Moran,"""The U.S. gun homicide rate is 20 times the combined rate of other western nations.""",mostly-true,"Numbers are outdated, but close ",2012-01-27,2019-04-23 16:47:04.112543
+0,Donald McEachin,"Gov. McDonnell's proposed budget ""is cutting"" public education.",false,School funding goes up; so does teachers' pension cost,2012-01-26,2019-04-23 16:47:04.114156
+0,Ken Cuccinelli,Says the D.C. city council passed a law banning lethal rat trapping.,pants-fire,No reprieve for common rats,2012-01-23,2019-04-23 16:47:04.115760
+0,Bob McDonnell,"Says proposal to boost teacher pension fund ""puts no mandate on local government.""",false,If it sounds like a duck...,2012-01-20,2019-04-23 16:47:04.117372
+0,Donald McEachin,"Gov. Bob McDonnell’s budget plan takes ""money out of our classrooms to pave roads.""",true,A tiny loss of school funding ,2012-01-15,2019-04-23 16:47:04.119006
+0,Bob McDonnell,"Says he’s proposed ""the largest employer contribution to the Virginia Retirement System in history.""",true,"A record setter, indeed",2012-01-06,2019-04-23 16:47:04.289525
+0,Eric Cantor,"Small businesses ""create 70 percent of the jobs in America.""",true,A valid estimate ,2011-12-30,2019-04-23 16:47:04.291360
+0,George Allen,"""I was one of about a dozen (senators) who voted against the Bridge to Nowhere.""",true,"Actually, he was one of 15",2011-12-27,2019-04-23 16:47:04.292979
+0,Tim Kaine,"George Allen cast ""the deciding vote"" for the 2003 Bush tax cuts.",false,"Under Kaine logic, 51 people cast ""the deciding vote."" ",2011-12-17,2019-04-23 16:47:04.294778
+0,George Allen,"""Our federal government has lent $2 billion to the state-owned oil company of Brazil to allow them to explore for oil and gas.""",false,Flat out wrong,2011-12-12,2019-04-23 16:47:04.296393
+0,Tim Kaine,"The national debt increased $16,000 every second George Allen served in the U.S. Senate.",true,Reasonable estimate,2011-12-08,2019-04-23 16:47:04.298039
+0,George Allen,"The United States ""is number one in the world in energy resources; Russia is number two.""",true,Coal makes U.S. king,2011-12-08,2019-04-23 16:47:04.299613
+0,Eric Cantor,"The U.S. economy ""is three times as big as China's.""",mostly-true,Another measure shows a smaller gap,2011-12-05,2019-04-23 16:47:04.301174
+0,Mark Warner,The U.S. would gain revenue by cutting personal income tax rates in half and ending tax breaks.,true,Warner adds by deducting,2011-11-25,2019-04-23 16:47:04.302745
+0,Crossroads GPS,"""(Stimulus money) went to critically important projects like studying ants in Africa.""",true,"Specifically, it's the Big-Headed Ant",2011-11-21,2019-04-23 16:47:04.304310
+0,Crossroads GPS,"Stimulus money went to ""office upgrades for politicians.""",barely-true,Number's wrong and plan's misrepresented,2011-11-19,2019-04-23 16:47:04.305882
+0,Tim Kaine,"George Allen's flat tax ""plan would actually shrink revenues further than the Perry (flat tax) plan.""",false,Allen has no flat tax plan,2011-11-14,2019-04-23 16:47:04.307446
+0,Jim Webb,"""Ronald Reagan raised the national debt 18 times.""",true,Although some say it was 17 times,2011-11-12,2019-04-23 16:47:04.308987
+0,Corey Stewart,On George Allen's U.S. senate candidacy.,full-flop,Says he was too hard on Allen,2011-11-03,2019-04-23 16:47:04.310523
+0,Randy Forbes,"""1.53 million jobs are at risk (from potential defense cuts).""",mostly-true,"A credible, but high-side estimate",2011-10-29,2019-04-23 16:47:04.312050
+0,National Republican Senatorial Committee,"The stimulus created ""zero jobs.""",pants-fire,Zero credibility in worn-out claim,2011-10-21,2019-04-23 16:47:04.313573
+0,Barack Obama,"Says his proposed payroll tax cut ""will mean an extra $1,500 in your pocket compared to if we do nothing.""",true,Cites savings to average working household ,2011-10-21,2019-04-23 16:47:04.315137
+0,Ward Armstrong,"Appalachian Power Company is making ""record profits.""",pants-fire,Problems with all of his numbers,2011-10-14,2019-04-23 16:47:04.316663
+0,Edd Houck,"""Bryce Reeves chaired a group bankrolled by a New York billionaire who fired hundreds of Virginia workers and sent their jobs to China.""",false,Flimsy logic based on flimsy research,2011-10-12,2019-04-23 16:47:04.318495
+0,George Allen,"Takes credit for ""reining in"" state spending when he was governor.",false,Bottom line increased 45 percent,2011-09-12,2019-04-23 16:47:04.320167
+0,Bob Goodlatte,"Thomas Jefferson expressed ""strong support"" for a balanced budget amendment in 1798.",half-true,TJ flip-flopped on federal debt,2011-09-09,2019-04-23 16:47:04.480753
+0,George Allen,"Takes credit for ""substantially reducing the size of the state workforce.""",mostly-true,"Fewer bureaucrats, more private consultants",2011-09-03,2019-04-23 16:47:04.482553
+0,Eric Cantor,On disaster aid offsets,full-flop,Says times have changed,2011-09-02,2019-04-23 16:47:04.484414
+0,Bobby Scott,"""The estimated savings of this (debt ceiling) deal only pay for half of the cost of extending all of the Bush-era tax cuts for another decade.""",true,His numbers are solid,2011-08-29,2019-04-23 16:47:04.486097
+0,Bob McDonnell,On serving out his gubernatorial term,full-flop,Might trade governorship to become veep,2011-08-26,2019-04-23 16:47:04.487733
+0,Democratic Party of Virginia,"Virginia has made ""no progress on jobs"" since Bob McDonnell took office.",false,"State has gained 50,000 jobs during McDonnell's term",2011-08-18,2019-04-23 16:47:04.489351
+0,Ken Plum,Virginia has a responsibility to fund 55 percent of public education and is paying just 41 percent.,false,Mixes apples and oranges ,2011-08-12,2019-04-23 16:47:04.491126
+0,Randy Forbes,"""As a percentage of our gross domestic product, the defense budget remains just 3.6 percent. This figure is low by all historical standards.""",mostly-true,But other measures show U.S. defense spending high ,2011-08-05,2019-04-23 16:47:04.492782
+0,Bobby Scott,(Rep. Bob Goodlatte's) balanced budget amendment does not require a balanced budget.,barely-true,Semantic argument ignores the obvious,2011-08-01,2019-04-23 16:47:04.494571
+0,Eric Cantor,"""Harry Reid’s plan is basically giving the president a blank check.""",false,Was speaking metaphorically,2011-07-29,2019-04-23 16:47:04.496194
+0,Ward Armstrong,On campaign contributions from electric utilities.,full-flop,"Once took the money, now says it tainted",2011-07-25,2019-04-23 16:47:04.497810
+0,Bob McDonnell,"Virginia state employees ""pay nothing"" toward their pensions.",pants-fire,He's signed bills that require workers to contribute to pensions,2011-07-21,2019-04-23 16:47:04.499429
+0,Bob McDonnell,Ninety percent of the job growth in Virginia has been in the private sector.,true,Statistics back his claim,2011-07-18,2019-04-23 16:47:04.501047
+0,Scott Rigell,"Under Ryan plan, ""those 54 and younger would receive the same kind of healthcare options now enjoyed by members of Congress.""",barely-true,Members of Congress come out ahead,2011-07-15,2019-04-23 16:47:04.502668
+0,Bob McDonnell,"""Our crime rate continues to plummet.""",mostly-true,"Dropping, yes; plummeting, no",2011-07-11,2019-04-23 16:47:04.504295
+0,George Allen,"""China owns more of our bonds than do Americans.""",false,Cherry picks data,2011-07-08,2019-04-23 16:47:04.505908
+0,Bob McDonnell,"""Under Gov. Rick Perry’s leadership [Texas] has created more jobs over the last decade than the rest of the states combined.""",barely-true,Mislabels a statistic,2011-07-06,2019-04-23 16:47:04.507487
+0,Mark Warner,"""If you look at our tax mix, the share of corporate revenues as a percentage of our overall revenue mix has declined by about half over the last 30 years.""",half-true,"True in '09, but not other recent years",2011-07-02,2019-04-23 16:47:04.509061
+0,Randy Forbes,"""The Federal Register - which houses all Washington regulations - is 34,000 pages in length and weighs in at more than 340 pounds.""",half-true,Weigh off,2011-07-01,2019-04-23 16:47:04.510617
+0,Democratic Party of Virginia,"Gov. Bob McDonnell launched a ""raid on public education to pay for roads.""",mostly-true,"Not a direct transfer, but close",2011-06-28,2019-04-23 16:47:04.512163
+0,NARAL Pro-Choice Virginia,"Virginia spends $400,000 on abstinence programs while losing $2.5 million in federal funds due to Gov. Bob McDonnell’s ""political agenda.""",true,NARAL actually understates its case,2011-06-27,2019-04-23 16:47:04.679685
+0,Republican Party of Virginia,"Phil Puckett ""voted no on sending the EPA a message that they’ve gone too far not once, but twice.""",pants-fire,"An absurd, and wrong, claim",2011-06-24,2019-04-23 16:47:04.681585
+0,George Allen,On subsidies for ethanol production.,full-flop,Back where he started ,2011-06-22,2019-04-23 16:47:04.683150
+0,National Republican Senatorial Committee,"""President Obama and liberal former DNC Chairman Tim Kaine’s $787 billion stimulus failed to create jobs.""",false,"Another stimulus attack, another False",2011-06-20,2019-04-23 16:47:04.684824
+0,George Allen,"""The tax on job creating businesses is 35 percent in the United States, second worst in the entire world.""",mostly-true,"He's close, but off by a bit",2011-06-18,2019-04-23 16:47:04.686476
+0,George Allen,"""We are number one in the world when it comes to energy resources. ... The Russians are second; Saudi Arabia is number three.""",true,Coal makes U.S. king,2011-06-17,2019-04-23 16:47:04.688101
+0,Peter Pantuso,"Commercial buses in the United States have ""a stellar safety record, a safety record that exceeds that of any other commercial mode or surface transportation mode.""",half-true,"Safer than trains and automobiles, but not planes",2011-06-11,2019-04-23 16:47:04.689720
+0,Robert Hurt,"Non-defense discretionary spending has increased ""by over 80 percent in the last two years.""",false,Time to check his math,2011-06-10,2019-04-23 16:47:04.691542
+0,Scott Rigell,"""The (national) debt really added up $75 trillion in 2010 and is on track to hit $99 trillion this year.""",false,Not even close ,2011-06-09,2019-04-23 16:47:04.693342
+0,Democratic Congressional Campaign Committee,"""Rep. Robert Hurt voted again today to end Medicare and raise health care costs for Virginia seniors.""",false,Update: Now with new information on costs for current seniors,2011-06-09,2019-04-23 16:47:04.695141
+0,Bob McDonnell,"Virginia is ""headed towards another surplus this year, unlike most states.""",mostly-true,He's not counting missed pension payments,2011-06-04,2019-04-23 16:47:04.696770
+0,Eric Cantor,"The 2009 stimulus bill ""failed to get people back to work.""",false,"Although unenmployment is high, the stimulus has created jobs ",2011-06-03,2019-04-23 16:47:04.698389
+0,National Republican Congressional Committee,"""Gerry Connolly and his fellow Democrats went on a spending spree and now their credit card is maxed out.""",barely-true,Debt spending a rare bipartisan feat,2011-06-02,2019-04-23 16:47:04.700049
+0,Jim Moran,"House Republicans required the use of Styrofoam cups in House cafeterias that are ""part of Koch Industries.""",pants-fire,He's whistlin' Dixie,2011-06-01,2019-04-23 16:47:04.701623
+0,Eric Cantor,"""If you look at the benefits and wages of recorded federal employees, they far outstrip the market rates of the private sector.""",true,"Even in same professions, federal workers make more",2011-05-31,2019-04-23 16:47:04.703202
+0,Ward Armstrong,"Under Gov. Bob McDonnell, more jobs have been lost than created in Southside and Southwest Virginia.",false,More people are working both regions,2011-05-28,2019-04-23 16:47:04.704777
+0,Tim Kaine,On whether judges should be allowed to place children with gay couples who wish to adopt.,half-flip,He still says let judges decide,2011-05-27,2019-04-23 16:47:04.706357
+0,Bob McDonnell,"For more than 30 years after World War II, there was a steady reduction in U.S. debt as a percentage of gross domestic product.",true,No disputing this claim,2011-05-25,2019-04-23 16:47:04.707936
+0,Frank Wolf,"The U.S. has ""over $62 trillion in unfunded liabilities.""",barely-true,"Shaky figures, poor terminology",2011-05-23,2019-04-23 16:47:04.709502
+0,Terry McAuliffe,"""If you take the population growth here in Virginia, we are net zero on job creation since (Bob McDonnell) became governor.""",true,Same could be said of former Gov. Tim Kaine's record,2011-05-21,2019-04-23 16:47:04.711103
+0,Ken Cuccinelli,"Department of Education officials investigating Virginia Tech shootings ""have not once gotten into the car and driven down to Blacksburg to talk to the police chief or the university president or to anyone else.""",true,But other communications occurred,2011-05-20,2019-04-23 16:47:04.911291
+0,Terry McAuliffe,"""The $1.8 billion in [transportation] bonding, we don’t have a repayment mechanism.""",pants-fire,Let's steamroll this falsehood,2011-05-18,2019-04-23 16:47:04.913148
+0,Randy Forbes,Failure to raise the debt limit does not force a U.S. default on debt payments.,true,But options to default are also dire ,2011-05-16,2019-04-23 16:47:04.914747
+0,Jamie Radtke,"George Allen ""had 40,000 earmarks"" while he was a senator.",false,"40,000? That's 18 per day",2011-05-13,2019-04-23 16:47:04.916308
+0,Tim Kaine,"Virginia ranked near the bottom of the nation 50 years ago in per capita income but is in the top 10 today. It had a ""very low"" rate of higher education attainment but is now above the national average.",half-true,Don't know enough about history (but better with the present),2011-05-12,2019-04-23 16:47:04.918005
+0,Jim Moran,"""American oil production is at its highest level since 2003.""",true,But it may drop soon,2011-05-11,2019-04-23 16:47:04.919642
+0,Eric Cantor,"There is ""a situation in this country where you're nearing 50 percent of people who don't even pay income taxes.""",true,Deductions cut liabilities,2011-05-09,2019-04-23 16:47:04.921246
+0,Bobby Scott,"""Nearly 2,000 high schools - roughly 12 percent of all secondary schools in the United States - produce about half of the nation’s dropouts.""",true,Sad but true,2011-05-06,2019-04-23 16:47:04.922852
+0,Eric Cantor,"""You’ve got each day 10,000 new seniors, baby boomers, becoming eligible for the entitlement programs.""",true,The silver tsunami cometh,2011-05-04,2019-04-23 16:47:04.924518
+0,Terry McAuliffe,"""China now owns $1.1 trillion of our debt, our trade deficit last year with them was a quarter of a trillion dollars.""",true,"Made in China, held in China",2011-05-03,2019-04-23 16:47:04.926075
+0,Gerry Connolly,"Rep. Paul Ryan’s Medicare plan ""lines the pockets of the private insurance companies,"" increases costs for seniors and does not reduce the deficit.",half-true,Money goes to deficit and insurers,2011-04-30,2019-04-23 16:47:04.927844
+0,Richard Saslaw,On redistricting.,full-flop,A quick switch,2011-04-29,2019-04-23 16:47:04.929500
+0,Gordon Robertson,"President Obama was ""raised Muslim.""",pants-fire,Repeats a debunked statement,2011-04-28,2019-04-23 16:47:04.931106
+0,Randy Forbes,"""Each day our nation pays communist China $73.9 million in interest on our debt.""",true,That's one big check,2011-04-26,2019-04-23 16:47:04.932730
+0,Kitty Boitnott,Salaries for Virginia’s teachers are below the national average.,true,"An ""A"" for accuracy",2011-04-25,2019-04-23 16:47:04.934351
+0,Mark Warner,"""Right now we are spending at an all-time high, close to 25 percent of our GDP [is] being spent on the federal government. But our revenues are at an almost all-time low of about 15 percent [of GDP].""",true,Only World War II era can compare,2011-04-22,2019-04-23 16:47:04.935955
+0,Republican Party of Virginia,Tim Kaine broke a campaign promise not to raise taxes.,barely-true,"""No taxes"" pledge never existed",2011-04-21,2019-04-23 16:47:04.937545
+0,Ward Armstrong,"""[Appalachian Power] wants another 10 percent rate increase. The compensation package for CEO Mike Morris rose 22 percent to $8.7 million in 2010.""",true,Another zap for customers,2011-04-19,2019-04-23 16:47:04.939105
+0,George Allen,"Tim Kaine proposed ""over $6 billion in tax increases from the time he entered the governor’s mansion until the time he left.""",half-true,"Right idea, wrong math",2011-04-16,2019-04-23 16:47:04.940658
+0,Jamie Radtke,"George Allen voted to add $3 trillion to the federal debt, voted to raise the debt ceiling four times and voted for the No Child Left Behind Act while he was a senator.",true,Most of GOP joined him,2011-04-15,2019-04-23 16:47:04.942220
+0,Campaign for America's Future,"Says ""Congressman Eric Cantor wants to eliminate Social Security.""",pants-fire,Just plain wrong,2011-04-14,2019-04-23 16:47:05.121191
+0,Robert Hurt,"A cap-and-trade bill would ""destroy over 50,000 jobs in Virginia.""",barely-true,Claim is mostly hot air,2011-04-12,2019-04-23 16:47:05.123018
+0,Jim Moran,"""Over the past decade, the big five oil companies --- BP, Chevron, ConocoPhillips, ExxonMobil and Shell -- made a total profit of nearly $1 trillion.""",mostly-true,"Close, but no cigar",2011-04-11,2019-04-23 16:47:05.124729
+0,Bob McDonnell,"""When I took office last year we faced historic budget deficits of $6 billion here in Virginia.  And we closed those deficits by cutting spending.""",barely-true,Guv exaggerates actual cuts,2011-04-09,2019-04-23 16:47:05.126316
+0,"Thomas Norment, Jr.",On bipartisan redistricting.,full-flop,Singing a new tune this time around,2011-04-08,2019-04-23 16:47:05.128049
+0,Tim Kaine,"Virginia was named ""best managed state, best state for business and best state to raise a child"" while I was governor.",true,Opponent Allen can make similar claims,2011-04-07,2019-04-23 16:47:05.129668
+0,Tim Kaine,On running for Senate if Jim Webb retires.,half-flip,Changed mind after Webb stepped down,2011-04-05,2019-04-23 16:47:05.131384
+0,George Allen,A majority of the American people opposed the health care law when it was signed and still oppose it today.,mostly-true,Polls more mixed than Allen says,2011-04-04,2019-04-23 16:47:05.132990
+0,Eric Cantor,"Discretionary spending has ""increased over 20-some percent in two years if you don’t include the stimulus. If you put in the stimulus, it’s over 80 percent.""",half-true,Cantor's math not quite right,2011-04-01,2019-04-23 16:47:05.134571
+0,Morgan Griffith,"""Originally, Democrats promised that if you liked your health care plan, you could keep it. One year later we know that you need a waiver to keep your plan.""",barely-true,"Waivers are few, far between",2011-03-31,2019-04-23 16:47:05.136165
+0,Babur Lateef,"Since Corey Stewart became chairman in November 2006, unemployment is up 150% and average home price sales are down $150,000.",half-true,"Accurate numbers, inaccurate blame",2011-03-30,2019-04-23 16:47:05.137730
+0,Jim Moran,"Ending federal funding for National Public Radio would jeopardize 9,000 jobs.",false,Wouldn't cost local stations a dime,2011-03-26,2019-04-23 16:47:05.139451
+0,Morgan Griffith,"""Not even expensive bottled water, like Perrier and Evian, are of good enough quality to pump out of mines in Southwest Virginia, according to the EPA regulation.""",barely-true,Confusing the issue with irrelevant claim,2011-03-22,2019-04-23 16:47:05.141084
+0,Organizing for America,"The GOP budget plan ""would cut nearly a million jobs.""",half-true,Depends on which economist you ask,2011-03-21,2019-04-23 16:47:05.142702
+0,Bob Goodlatte,"The House budget plan proposes ""the largest discretionary spending cut in history.""",mostly-true,A case can be made for post World War II ,2011-03-18,2019-04-23 16:47:05.144315
+0,Eric Cantor,"""Put simply, less government spending equals more private sector jobs.""",half-true,He presents theory as fact,2011-03-16,2019-04-23 16:47:05.145878
+0,Morgan Griffith,"""A new ruling by the EPA would force dairy farmers to comply with the Spill Prevention, Control and Countermeasure Program when dealing with spilt milk -- the same regulations oil and natural gas producers must follow.""",false,Udderly absurd,2011-03-11,2019-04-23 16:47:05.147451
+0,Virginia Lottery,"""Since 1999, all Virginia Lottery profits have been used for public education in the Commonwealth for kindergarten through 12th grade.""",mostly-true,No way to be sure before 2008,2011-03-09,2019-04-23 16:47:05.149011
+0,Bob McDonnell,"In the past decade, K-12 funding has grown six times faster than the rate of enrollment.",half-true,UPDATE: Adjusted for inflation,2011-03-08,2019-04-23 16:47:05.150578
+0,Ken Cuccinelli,"The health care bill has ""six years of costs against 10 years of tax revenue.""",half-true,"Some benefits, taxes already here",2011-03-07,2019-04-23 16:47:05.152318
+0,Ward Armstrong,"A telephone company will no longer have to provide landline service to customers if there is an alternative provider, including wireless.",true,Landlines no longer guaranteed,2011-03-05,2019-04-23 16:47:05.336338
+0,Ward Armstrong,A telecom bill could keep the State Corporation Commission from getting rate-of-return information from electric utilities.,false,Bad data feeds bellicosity ,2011-03-05,2019-04-23 16:47:05.338295
+0,Brian Moran,"Gov. Bob McDonnell in 2010 ""did not even create enough jobs to keep pace with population growth"" in Virginia.",half-true,A blend of truth and misleading figures,2011-03-03,2019-04-23 16:47:05.339921
+0,Tim Kaine,"""We’ve now gained private sector jobs 12 months in a row.""",mostly-true,Kaine close on job numbers,2011-03-02,2019-04-23 16:47:05.341534
+0,George Allen,"The stimulus bill ""promised to keep unemployment under 8%.""",barely-true,"Trotting out a tired, old claim",2011-02-28,2019-04-23 16:47:05.343112
+0,George Allen,"""The American people have endured 21 consecutive months of 9% or higher unemployment [and] 2.6 million jobs have been lost,"" since the stimulus bill was signed.",true,New job growth slow to match earlier losses,2011-02-28,2019-04-23 16:47:05.344676
+0,Tim Kaine,"Under former President George W. Bush’s administration ""while the population in that period grew by 10 percent, the number of jobs in the nation grew by 1 percent.""",mostly-true,"Lots of new people, fewer new jobs",2011-02-26,2019-04-23 16:47:05.346245
+0,Christopher Peace,"Tim Kaine wants to thwart ""right-to-work reform measures in Midwest battleground states.""",false,No proof for this claim,2011-02-25,2019-04-23 16:47:05.347812
+0,Virginia Senate Democratic Caucus,"The House of Delegates budget bill ""cuts $50 million from education.""",true,"In the end, less money for classrooms",2011-02-22,2019-04-23 16:47:05.349378
+0,Bob McDonnell,"Road construction bids ""are coming in at the lowest in the modern era.""",barely-true,Has no data to prove his claim,2011-02-19,2019-04-23 16:47:05.350946
+0,Scott Rigell,"The United states is ""borrowing more than 40 cents of every dollar we spend.""",true,We graded this in red ink,2011-02-17,2019-04-23 16:47:05.352682
+0,Jamie Radtke,"""Senator Webb was a reliable vote for President Obama and Senator Harry Reid.""",true,Webb backed party on key bills,2011-02-16,2019-04-23 16:47:05.354315
+0,Jim Webb,"The war in Iraq was a major factor in blowing ""the top off the price of oil.""",barely-true,Rising global demand played far more improtant role,2011-02-14,2019-04-23 16:47:05.355931
+0,Dwight Jones,"""Overall we currently have $981 million, almost a billion dollars in active development projects right here in the City of Richmond.""",barely-true,Are finished projects really active?,2011-02-11,2019-04-23 16:47:05.357534
+0,Joe Morrissey,"The military has spent $500 million enforcing the ""Don’t Ask, Don’t Tell"" policy regarding gays and lesbians in the military.",mostly-true,His estimate is reasonable,2011-02-07,2019-04-23 16:47:05.359143
+0,Democratic Congressional Campaign Committee,Congressman Robert Hurt has a plan to cut education by 40 percent.,pants-fire,Time for remedial math at DCCC,2011-02-04,2019-04-23 16:47:05.360889
+0,Jamie Radtke,"Federal Reserve policies have led to a 69 percent rise in corn prices, 44 percent rise in wheat prices and 15 percent spike in sugar prices over the last year.",barely-true,Don't just blame Bernanke,2011-02-04,2019-04-23 16:47:05.362519
+0,Bill Janis,"""The New START treaty was passed despite significant concerns among some people in the State and Defense Departments.""",barely-true,Big-wigs and brass backed this treaty,2011-02-02,2019-04-23 16:47:05.364166
+0,Mark Warner,The U.S. loses more on tax breaks than it collects in personal income taxes.,true,Changing the imbalance will cause pain,2011-02-01,2019-04-23 16:47:05.365775
+0,Ken Cuccinelli,"""[Tailpipe emissions rules], if fully implemented with all the regulations that go with it, they will keep the temperature from rising nearly five one-hundredths of a degree Fahrenheit. By 2050.""",true,Polar bears should remain nervous.,2011-01-28,2019-04-23 16:47:05.367392
+0,Jamie Radtke,"George Allen voted for budgets that increased the national debt by $16,400 for every second he served in the U.S. Senate.",true,She actually underestimated the total,2011-01-23,2019-04-23 16:47:05.540627
+0,Bob McDonnell,"""It is estimated that every $100 million spent on construction generates 3,000 new jobs.""",barely-true,Governor's numbers don't add up,2011-01-22,2019-04-23 16:47:05.542551
+0,Brian Moran,"The governor has made a ""commitment to billions of dollars in debt and new spending without any explanation of how he plans to pay that money back.""",pants-fire,He voted for the missing plan...twice,2011-01-21,2019-04-23 16:47:05.544139
+0,Eric Cantor,"The health care reform law ""offset[s] 6 years of benefits with 10 years of tax increases.""",half-true,Some benefits as well as some taxes come early ,2011-01-15,2019-04-23 16:47:05.545754
+0,Bob McDonnell,"Virginia ranked 35th in job creation in 2009 under Gov. Tim Kaine, and moved up to third for 2010, while McDonnell has been in office.",half-true,Uses statistics that draw the starkest contrast ,2011-01-14,2019-04-23 16:47:05.547378
+0,Tim Kaine,Obama’s mid-term approval ratings are similar to other presidents who went on to re-election.,half-true,Mid-term marks below average but above Reagan's in first term ,2011-01-10,2019-04-23 16:47:05.549140
+0,Pat Mullins,New provisions of the health care law bar the use of flexible spending accounts and health savings accounts to pay for aspirin and other non-prescription health needs.,true,He's the Bayer of bad news,2011-01-07,2019-04-23 16:47:05.550730
+0,Gerry Connolly,"""There hasn't really been a lot of net growth in the federal workforce when you compare it to say, 1990.""",half-true,But use of government contractors has soared,2011-01-06,2019-04-23 16:47:05.552558
+0,William Howell,Proposed federal regulations would affect every street sign in the country,true,"Not a capital idea, he says",2011-01-01,2019-04-23 16:47:05.554182
+0,Ward Armstrong,On whether the state should ramp up borrowing to build roads.,half-flip,Voted for road bonds in 2007 but wasn't happy about it,2010-12-30,2019-04-23 16:47:05.555795
+0,Bobby Scott,"The tax-cut deal ""adds more than $800 billion to the deficit over two years -- more than the cost of TARP and more than the cost of the Recovery Act"" and about the same as health care reform.",mostly-true,"He's right on two, close on the third",2010-12-27,2019-04-23 16:47:05.557410
+0,Ward Armstrong,"""The Governor did not consult members of his own party before he released his [transportation] plan.""",false,Many Republicans were in the loop,2010-12-24,2019-04-23 16:47:05.559027
+0,Bob McDonnell,On whether state employees should contribute to their pensions.,full-flop,Says worsening conditions forced him to change,2010-12-22,2019-04-23 16:47:05.560632
+0,Bob Marshall,"Those who fail to buy health insurance under ""Obamacare"" face the threat of jail time.",pants-fire,No one is going to the Big House,2010-12-20,2019-04-23 16:47:05.562249
+0,Kitty Boitnott,"Teachers ""are working their third consecutive year -- some longer than that -- without salary increases.""",false,Most got raises for 2008-09 school year,2010-12-17,2019-04-23 16:47:05.563858
+0,Robert Hurt,"The Democrats' health care reform law is a ""government takeover of health care.""",false,Saying it doesn't make it true,2010-12-16,2019-04-23 16:47:05.565472
+0,George Allen,"Sen. Jim Webb ""persists on negating"" Sen. Mark Warner’s votes",false,Webb and Warner in sync on 87 percent of votes,2010-12-15,2019-04-23 16:47:05.567117
+0,Jim Moran,"The Bush-era tax cuts failed to increase employment and ""work-force participation fell in 2001 and has never returned to the record level set in 2000.""",mostly-true,"Don't forget, there was a recession",2010-12-11,2019-04-23 16:47:05.568692
+0,Mark Warner,The national debt grew an estimated $15 billion last weekend.,true,"The estimate, though accurate, varies from actual numbers",2010-12-09,2019-04-23 16:47:05.570556
+0,Bobby Scott,"Republicans ""created a trillion dollar prescription drug entitlement program without paying for it.""",mostly-true,He's close on the cost for the next decade,2010-12-07,2019-04-23 16:47:05.572202
+0,William Howell,"""There’s talk in Congress now about basically confiscating your private 401(k) or IRA plan and rolling it into Social Security to strengthen Social Security.""",pants-fire,No need to cash in your retirement savings,2010-12-03,2019-04-23 16:47:05.730439
+0,Bob McDonnell,"""The tuitions in Virginia colleges...have doubled -- 100 percent -- in the last 10 years.""",true,"With three kids in college, he knows the facts. ",2010-12-02,2019-04-23 16:47:05.732264
+0,Eric Cantor,Letting the Bush tax cuts expire would raise taxes on small businesses.,barely-true,But he's misinterpreting data. ,2010-11-26,2019-04-23 16:47:05.733881
+0,Virginia Tea Party Patriots,"Since the Fed was created in 1913, ""the U.S. Dollar has lost 98% of its purchasing power.""",half-true,A glaring omission: Wages have gone up dramatically since 1913.,2010-11-24,2019-04-23 16:47:05.735672
+0,Bobby Scott,"The health care reform law ""reduces the deficit by nearly $1.2 trillion over the next two decades.""",half-true,But his projections get dicey after 10 years,2010-11-23,2019-04-23 16:47:05.737254
+0,Virginia Tea Party Patriots,"The dollar ""has fallen over 44% since Bernanke began pumping money into the system beginning back in 2002.""",half-true,"Dollar has fallen, but not that much",2010-11-19,2019-04-23 16:47:05.738857
+0,Bob McDonnell,"""We’ve been able to create about 60,000 net new jobs"" in Virginia since February.",mostly-true,"His figure is close, but who deserves the credit for the new jobs?",2010-11-17,2019-04-23 16:47:05.740425
+0,George Allen,"President Obama, Sen. Harry Reid and Rep. Nancy Pelosi passed a ""$1.2 trillion stimulus bill.""",pants-fire,Inflates stimulus cost by almost 50 percent,2010-11-16,2019-04-23 16:47:05.741993
+0,Mark Warner,"$65 billion ""would be added to the deficit if we keep the cuts for people on the highest incomes.""",mostly-true,Warner's numbers add up,2010-11-14,2019-04-23 16:47:05.743618
+0,Richard Saslaw,"$65 million from ABC privatization will not pay for ""even an overpass in Tysons Corner.""",barely-true,$65 million would cover it without major complications,2010-11-13,2019-04-23 16:47:05.745377
+0,Bob McDonnell,"Has created 60,000 net new jobs since taking office.",mostly-true,"His number is a tad high, but in the ballpark ",2010-11-12,2019-04-23 16:47:05.746946
+0,Tim Kaine,"Republican plan to extend Bush tax cuts ""would double deficit projections going forward for the next couple of decades.""",mostly-true,Omits one fact: Democrats' plan would also balloon deficit ,2010-11-11,2019-04-23 16:47:05.748505
+0,George Allen,"The debt is ""nearly $6 trillion more than when President Obama was sworn into office.""",false,Debt hasn't grown that fast,2010-11-09,2019-04-23 16:47:05.750063
+0,Eric Cantor,"""The budget submitted by Obama will add more to the debt than the outstanding debt of the previous 43 presidents combined.""",true,"This time, he's right",2010-11-07,2019-04-23 16:47:05.751824
+0,Bobby Scott,"""If all of the [Bush-era] tax cuts expire on schedule, the budget will be close to being balanced in four years.""",false,Ending the tax cuts wouldn’t even cut the deficit in half,2010-11-05,2019-04-23 16:47:05.753449
+0,Scott Rigell,"""Congressman Nye voted against a bill which would have defunded the $5-10 billion"" the IRS needed to implement  health care legislation.",false,"Nye's vote was on a minor procedural motion, not a bill",2010-11-01,2019-04-23 16:47:05.755061
+0,Sierra Club,Robert Hurt supported a bill that helped the uranium industry after taking contributions from the industry and because his father had a stake in it.,barely-true,"Hurt took $2,000 from mining officials but was cleared to vote on bill",2010-10-31,2019-04-23 16:47:05.756669
+0,Tom Perriello,"""Senator Robert Hurt voted for a bill that’s raised your electric rates seven times.""",false,Deregulation was not a factor in raising rates,2010-10-30,2019-04-23 16:47:05.758291
+0,Robert Hurt,"""Congressman Perriello voted in lock step with Nancy Pelosi 90 percent of the time.""",half-true,"Perriello votes with Democrats, but not necessarily Pelosi",2010-10-30,2019-04-23 16:47:05.759899
+0,Democratic Congressional Campaign Committee,"""Rigell's car dealership made over $400,000 off the ‘Cash for Clunkers’ bailout.""",half-true,"Rigell's dealerships profited, but they didn't make $400,000",2010-10-29,2019-04-23 16:47:05.761505
+0,Tom Perriello,"""Mr. Hurt would re-open that darn (Medicare) doughnut hole.""",half-true,"Connecting the dots, Perriello seems right",2010-10-29,2019-04-23 16:47:05.911289
+0,Rick Boucher,"""Morgan Griffith fought for a plan that would have taken money away from our schools and given it to Northern Virginia schools instead.""",barely-true,No evidence Griffith fought for this,2010-10-28,2019-04-23 16:47:05.913116
+0,Morgan Griffith,"Rick Boucher ""helped write"" the cap-and-trade bill",half-true,"Yes, but to protect SW Virginia and coal industry",2010-10-28,2019-04-23 16:47:05.914767
+0,Eric Cantor,"In the past two years, Democrats have ""spent more money than this country has spent in the last 200 years combined.""",pants-fire,Wrong no matter how you slice it,2010-10-27,2019-04-23 16:47:05.916352
+0,Tom Perriello,"Says Robert Hurt ""supports the tax loopholes that send American jobs overseas.""",false,"Hurt signed Taxpayer Protection Pledge, not a promise to close loopholes",2010-10-25,2019-04-23 16:47:05.917938
+0,Scott Rigell,"Says Glenn Nye voted ""in lock step with Nancy Pelosi"" 83 percent of the time.",barely-true,Many nays for Nye,2010-10-25,2019-04-23 16:47:05.919772
+0,Robert Hurt,"Says Tom Perriello voted ""to give tax breaks to foreign companies creating jobs in China.""",false,"No connection between manufacturing tax credit in stimulus, Chinese jobs",2010-10-25,2019-04-23 16:47:05.921406
+0,Glenn Nye,"Says he ""voted no on the Wall Street bailouts.""",barely-true,He wasn't in Congress when TARP was approved.,2010-10-25,2019-04-23 16:47:05.923045
