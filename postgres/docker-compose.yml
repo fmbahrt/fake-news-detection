@@ -10,7 +10,7 @@ services:
   
       - POSTGRES_PASSWORD=admin
       - POSTGRES_USER=admin
-      - POSTGRES_DB=fakenews_100k
+      - POSTGRES_DB=fakenews_1m
     volumes:
       - ./db_dump:/db_dump
       - /srv/docker/postgresql:/var/lib/postgresql
